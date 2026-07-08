@@ -1,64 +1,62 @@
 # Карта сценария — типы кадров (EN + RU)
 
-Легенда: 🎙 Lipsync (ведущий) · 🎬 Animation (3D b-roll → Remotion) · 📊 Graphics (эмоушн-графика) · 🎞 Footage (реальное видео, свободное от прав)
+Легенда: 🎙 Lipsync (ведущий) · 🎬 Animation (3D b-roll → Remotion) · 📊 Graphics (эмоушн-графика) · 🎞 Footage (реальное видео)
+
+**Липсинк сокращён с 20 до 7 сегментов** (дорогой этап) — везде, где не критично прямое обращение в камеру, идёт закадровый голос поверх Animation/Graphics/Footage.
 
 ## АКТ 1 — Конли
 
-**S1** — 🎬 Animation
-- EN: Two AM. Boston.
-- RU: Два часа ночи. Бостон.
+**S1+S2** — 🎙 Lipsync ✅ ГОТОВО (интро-клип)
+- EN: Two AM. Boston. A police officer named Kenny Conley is running flat-out after a man who just fired a gun.
+- RU: Два часа ночи. Бостон. Полицейский по имени Кенни Конли несётся со всех ног за человеком, который только что выстрелил из пистолета.
 
-**S2** — 🎬 Animation ✅
-- EN: A police officer named Kenny Conley is running flat-out after a man who just fired a gun.
-- RU: Полицейский по имени Кенни Конли несётся со всех ног за человеком, который только что выстрелил из пистолета.
-
-**S3** — 🎬 Animation ✅
+**S3** — 🎬 Animation ✅ готово
 - EN: The man vaults a chain-link fence. Conley goes after him.
 - RU: Тот перемахивает через сетчатый забор. Конли — за ним.
 
-**S4** — 🎬 Animation
+**S4** — 🎬 Animation (закадр)
 - EN: His eyes never leave the back of the runner. Catch him. Take him down. Don't lose him.
 - RU: Его взгляд не отрывается от спины убегающего. Догнать. Свалить. Не упустить.
 
-**S5** — 🎬 Animation ✅
+**S5** — 🎬 Animation ✅ готово
 - EN: And a few meters to the side, right by his path, four other officers are beating a man to death.
 - RU: А в нескольких метрах в стороне, прямо у него на пути, четверо других полицейских забивают человека до смерти.
 
-**S6** — 🎬 Animation
+**S6** — 🎬 Animation (закадр)
 - EN: They've mistaken one of their own for a suspect — an undercover cop, by accident.
 - RU: Они приняли своего за преступника — по ошибке, полицейского под прикрытием.
 
-**S7** — 🎬 Animation ✅
+**S7** — 🎬 Animation ✅ готово
 - EN: It's loud. It's close. Conley runs right past it, catches his man, snaps on the cuffs.
 - RU: Это громко. Это рядом. Конли пробегает мимо, догоняет своего, защёлкивает наручники.
 
-**S8** — 🎙 Lipsync
+**S8** — 🎬 Animation (закадр)
 - EN: And then, under oath, he says he saw nothing.
 - RU: А потом под присягой говорит, что ничего не видел.
 
-**S9** — 🎬 Animation
+**S9** — 🎬 Animation (закадр)
 - EN: Here's where it should scare you. Because the jury didn't believe him. Not for a second.
 - RU: Вот тут тебе должно стать не по себе. Потому что присяжные ему не поверили. Ни на секунду.
 
-**S10** — 🎙 Lipsync
+**S10** — 🎬 Animation (закадр)
 - EN: How do you run three meters from four men beating someone — and not see it?
 - RU: Как пробежать в трёх метрах от того, как четверо избивают человека, — и не увидеть?
 
-**S11** — 🎬 Animation
+**S11** — 🎬 Animation (закадр)
 - EN: Obviously he saw it. Obviously he's covering for his own. Perjury. Thirty-four months.
 - RU: Очевидно, он видел. Очевидно, он выгораживает своих. Лжесвидетельство. Тридцать четыре месяца.
 
 ## АКТ 2 — Ловушка на зрителя
 
-**S12** — 🎙 Lipsync
+**S12** — 🎬 Animation (закадр)
 - EN: And everyone in that courtroom was certain of one thing. The same thing you're certain of right now.
 - RU: И все в том зале суда были уверены в одном. В том же самом, в чём уверен сейчас ты.
 
-**S13** — 🎙 Lipsync
+**S13** — 🎬 Animation (закадр)
 - EN: That if it were right in front of you — you'd see it. You'd swear it.
 - RU: Что если бы это было прямо перед тобой — ты бы это увидел. Ты бы поклялся в этом.
 
-**S14** — 🎬 Animation
+**S14** — 🎬 Animation (закадр)
 - EN: Conley swore it too. The difference is, he was probably telling the truth.
 - RU: Конли тоже клялся. Разница в том, что он, скорее всего, говорил правду.
 
@@ -66,7 +64,7 @@
 - EN: So let's test it. On you. Right now.
 - RU: Так давай проверим. На тебе. Прямо сейчас.
 
-**S16** — 🎙 Lipsync
+**S16** — 🎬 Animation + 📊 (закадр)
 - EN: As this video goes on, you'll catch yourself thinking, a few times, "me, they wouldn't fool me — I'd notice."
 - RU: По ходу этого видео ты несколько раз поймаешь себя на мысли: «меня-то они не проведут — я бы заметил».
 
@@ -80,7 +78,7 @@
 
 ## АКТ 3 — Как врёт зрение
 
-**S19** — 🎙 Lipsync
+**S19** — 🎬 Animation (закадр)
 - EN: To understand what happened to Conley that night, you first have to understand what's happening to you right now.
 - RU: Чтобы понять, что случилось с Конли в ту ночь, сначала надо понять, что происходит с тобой прямо сейчас.
 
@@ -96,7 +94,7 @@
 - EN: Everything else is blurry edges your brain fills in from memory and guesswork.
 - RU: Всё остальное — размытые края, которые мозг достраивает по памяти и догадкам.
 
-**S23** — 🎙 Lipsync
+**S23** — 📊 Graphics (закадр)
 - EN: It paints you a full, crisp picture — and you believe it. Right this second, you believe it.
 - RU: Он рисует тебе полную, ясную картину — и ты в неё веришь. Прямо в эту секунду ты в неё веришь.
 
@@ -122,11 +120,11 @@
 - EN: Stops. Faces the camera. Pounds its chest with both fists. And walks off.
 - RU: Останавливается. Поворачивается к камере. Бьёт себя кулаками в грудь. И уходит.
 
-**S29** — 🎙 Lipsync
+**S29** — 🎞 Footage (закадр)
 - EN: Half the viewers never saw it. At all. Their eyes were pointed straight at it — and their brain reported nothing.
 - RU: Половина зрителей вообще этого не увидела. Совсем. Их глаза были направлены прямо на него — а мозг не сообщил ничего.
 
-**S30** — 🎙 Lipsync + 📊
+**S30** — 📊 Graphics
 - EN: And there it is again — "okay, but those are distracted amateurs, I'd catch it." Counted it? Add one.
 - RU: И вот оно снова — «ну ладно, это же рассеянные любители, я бы заметил». Посчитал? Прибавь единицу.
 
@@ -166,7 +164,7 @@
 
 ## АКТ 6 — Финал
 
-**S39** — 🎙 Lipsync
+**S39** — 🎬 Animation (закадр)
 - EN: Feel where this is going? Then let's go back to Conley.
 - RU: Чувствуешь, к чему всё идёт? Тогда вернёмся к Конли.
 
@@ -198,11 +196,11 @@
 - EN: Now — what's your number? How many times did you think "they wouldn't fool me, I'd notice"?
 - RU: А теперь — какое твоё число? Сколько раз ты подумал «меня не проведут, я бы заметил»?
 
-**S46** — 🎙 Lipsync
+**S46** — 📊 Graphics (закадр)
 - EN: That's exactly how many times your brain lied to you — calmly, confidently, without blinking.
 - RU: Ровно столько раз твой мозг тебе солгал — спокойно, уверенно, не моргнув.
 
-**S47** — 🎙 Lipsync
+**S47** — 📊 Graphics (закадр)
 - EN: Every "I'd notice" was the blindness, live. You caught it on my command. How many times didn't you catch it?
 - RU: Каждое «я бы заметил» и было слепотой, вживую. Ты ловил её по моей команде. А сколько раз не поймал?
 
@@ -222,13 +220,19 @@
 - EN: Right now, as you watch this, something is in your field of view that you are not looking at. And your brain has already erased it for you.
 - RU: Прямо сейчас, пока ты смотришь это, в твоём поле зрения есть что-то, на что ты не смотришь. И мозг уже стёр это для тебя.
 
-**S52** — 🎙 Lipsync
+**S52** — 🎬 Animation (закадр)
 - EN: The question was never what you just missed.
 - RU: Вопрос никогда не был в том, что ты только что упустил.
 
-**S53** — 🎙 Lipsync
+**S53** — 🎙 Lipsync (финал)
 - EN: It's what you've been missing your whole life — and no one will ever tell you.
 - RU: А в том, что ты упускал всю свою жизнь — и никто тебе об этом никогда не скажет.
 
 ---
-Итого 54 сегмента: 🎙 Lipsync 20 · 🎬 Animation 17 · 📊 Graphics 12 · 🎞 Footage 5
+## Итого 53 сегмента (S1+S2 объединены)
+- 🎙 Lipsync: **7** (S1+2 ✅, S15, S31, S38, S44b, S45, S53)
+- 🎬 Animation: **~24**
+- 📊 Graphics: **~17**
+- 🎞 Footage: **5**
+
+Липсинк сокращён с 20 до 7 сегментов — экономия по самому дорогому этапу продакшна.
