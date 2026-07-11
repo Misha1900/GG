@@ -1,0 +1,307 @@
+
+  Searching YouTube (Data API v3) for: "neuroscience"
+  order=viewCount  limit=50
+
+  1. They found this after doing a Monks MRI scan - Brain expert reveals all #sciencefacts #neuroscience
+     https://www.youtube.com/watch?v=52Sjysf8RBI
+     Channel: YEARBOOK (19.3K subs) — https://www.youtube.com/channel/UCNRz1gwIhSa1JddEA-ZNqjA
+     Views: 7.7M  |  Engagement: 397.93x subs  |  Duration: 0:39  |  Published: 2024-05-14
+     Likes: 283.2K  Comments: 2.5K
+     ----------------------------------------------------------------------
+  2. How to Rewire Your Brain to Enjoy Discipline (Dopamine Detox Explained)
+     https://www.youtube.com/watch?v=KXvyd-tkrmc
+     Channel: HustleCore (28.5K subs) — https://www.youtube.com/channel/UCVbEcdRUE78kCWygwdOxqHA
+     Views: 2.9M  |  Engagement: 102.9x subs  |  Duration: 14:27  |  Published: 2025-10-16
+     Likes: 74.7K  Comments: 1.7K
+     ----------------------------------------------------------------------
+  3. We Only Use 10% of Our Brains? 🧠 w/ Neil deGrasse Tyson
+     https://www.youtube.com/watch?v=Cz-Y_WGPPwI
+     Channel: Quantumara (142.0K subs) — https://www.youtube.com/channel/UCwy43KQon5i1oGZAcELi9OA
+     Views: 11.8M  |  Engagement: 82.9x subs  |  Duration: 0:46  |  Published: 2024-02-16
+     Likes: 460.2K  Comments: 2.8K
+     ----------------------------------------------------------------------
+  4. how to use neuroscience to make every room in your home feel 10x better
+     https://www.youtube.com/watch?v=ngp3oxDqngc
+     Channel: Five By Nine (149.0K subs) — https://www.youtube.com/channel/UChDexmcQfMhynTrnSsXC6_Q
+     Views: 4.1M  |  Engagement: 27.51x subs  |  Duration: 19:47  |  Published: 2026-03-10
+     Likes: 101.9K  Comments: 2.0K
+     ----------------------------------------------------------------------
+  5. I DREAM BIG BUT DO NOTHING. the neuroscience behind why & how to fix
+     https://www.youtube.com/watch?v=tnVI3AFWPJw
+     Channel: Olga Loiek (188.0K subs) — https://www.youtube.com/channel/UChCmdRBQhul2hd7Idk1Qyvg
+     Views: 2.8M  |  Engagement: 14.92x subs  |  Duration: 9:45  |  Published: 2026-03-29
+     Likes: 154.2K  Comments: 6.1K
+     ----------------------------------------------------------------------
+  6. Your brain still works after death
+     https://www.youtube.com/watch?v=pU8Rb0Mc5zg
+     Channel: Hashem Al-Ghaili (1.2M subs) — https://www.youtube.com/channel/UCfAInEvJMxEq_pCb9vehdCw
+     Views: 17.3M  |  Engagement: 14.51x subs  |  Duration: 0:58  |  Published: 2024-05-26
+     Likes: 999.0K  Comments: 17.9K
+     ----------------------------------------------------------------------
+  7. Brain cell restructures itself after forming a new connection #neuroplasticity #neuroscience #brain
+     https://www.youtube.com/watch?v=SngXAGa4_as
+     Channel: MEDspiration (540.0K subs) — https://www.youtube.com/channel/UCBILFOvoJ4x2bRhfSapAopA
+     Views: 7.1M  |  Engagement: 13.19x subs  |  Duration: 0:13  |  Published: 2024-10-02
+     Likes: 320.3K  Comments: 6.3K
+     ----------------------------------------------------------------------
+  8. Change Your Brain: Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast
+     https://www.youtube.com/watch?v=SwQhKFMxmDY
+     Channel: Rich Roll (1.6M subs) — https://www.youtube.com/channel/UCpjlh0e319ksmoOD7bQFSiw
+     Views: 18.6M  |  Engagement: 11.83x subs  |  Duration: 2:12:42  |  Published: 2020-07-20
+     Likes: 347.9K  Comments: 12.2K
+     ----------------------------------------------------------------------
+  9. Your Brain: Who's in Control? | Full Documentary | NOVA | PBS
+     https://www.youtube.com/watch?v=yQ6VOOd73MA
+     Channel: NOVA PBS Official (1.5M subs) — https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA
+     Views: 10.8M  |  Engagement: 7.26x subs  |  Duration: 53:33  |  Published: 2023-06-01
+     Likes: 151.4K  Comments: 6.2K
+     ----------------------------------------------------------------------
+  10. How to Trick Your Brain Into Liking Discipline
+     https://www.youtube.com/watch?v=gJctVD_oMx4
+     Channel: Psyphoria (790.0K subs) — https://www.youtube.com/channel/UC-6IQO6g1NuJiaS3uTId3oQ
+     Views: 4.6M  |  Engagement: 5.84x subs  |  Duration: 27:12  |  Published: 2025-10-12
+     Likes: 210.3K  Comments: 5.0K
+     ----------------------------------------------------------------------
+  11. #1 Neuroscientist: Truth About Laziness, Discipline, Exercise, Stress & Journaling | Andrew Huberman
+     https://www.youtube.com/watch?v=NKyyF9MQXn4
+     Channel: Dhru Purohit (635.0K subs) — https://www.youtube.com/channel/UCBnLhz50WZAvsF4S72xtESA
+     Views: 3.6M  |  Engagement: 5.6x subs  |  Duration: 1:40:11  |  Published: 2021-06-24
+     Likes: 72.5K  Comments: 1.7K
+     ----------------------------------------------------------------------
+  12. This brain will change the future of neuroscience
+     https://www.youtube.com/watch?v=MSqQLoFk1WU
+     Channel: Howtown (1.3M subs) — https://www.youtube.com/channel/UCGudGqToOw9hWGR88W9Jutg
+     Views: 6.9M  |  Engagement: 5.13x subs  |  Duration: 1:00  |  Published: 2024-10-03
+     Likes: 223.5K  Comments: 3.7K
+     ----------------------------------------------------------------------
+  13. 2-Minute Neuroscience: Synaptic Transmission
+     https://www.youtube.com/watch?v=WhowH0kb7n0
+     Channel: Neuroscientifically Challenged (701.0K subs) — https://www.youtube.com/channel/UCUgZq9PkDp1xaEivtcfJPSg
+     Views: 3.3M  |  Engagement: 4.68x subs  |  Duration: 1:51  |  Published: 2014-07-22
+     Likes: 33.5K  Comments: 597
+     ----------------------------------------------------------------------
+  14. 2-Minute Neuroscience: Autism
+     https://www.youtube.com/watch?v=tEBsTX2OVgI
+     Channel: Neuroscientifically Challenged (701.0K subs) — https://www.youtube.com/channel/UCUgZq9PkDp1xaEivtcfJPSg
+     Views: 2.5M  |  Engagement: 3.63x subs  |  Duration: 1:59  |  Published: 2021-12-20
+     Likes: 51.0K  Comments: 5.9K
+     ----------------------------------------------------------------------
+  15. Your Brain: Perception Deception | Full Documentary | NOVA | PBS
+     https://www.youtube.com/watch?v=HU6LfXNeQM4
+     Channel: NOVA PBS Official (1.5M subs) — https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA
+     Views: 3.1M  |  Engagement: 2.08x subs  |  Duration: 53:33  |  Published: 2023-05-17
+     Likes: 51.2K  Comments: 2.5K
+     ----------------------------------------------------------------------
+  16. Neuroscience JUST Did the IMPOSSIBLE
+     https://www.youtube.com/watch?v=lZ3_GUilpnk
+     Channel: Chase Hughes (1.8M subs) — https://www.youtube.com/channel/UCUBj_5pwQZaoXfBrEQQbADw
+     Views: 3.5M  |  Engagement: 1.93x subs  |  Duration: 12:03  |  Published: 2025-12-13
+     Likes: 164.1K  Comments: 13.8K
+     ----------------------------------------------------------------------
+  17. BRAIN HEALTH EXPERT: Change Your Brain, Change Your Life | Dr. Daniel Amen X Rich Roll Podcast
+     https://www.youtube.com/watch?v=0SPC_Q7-k40
+     Channel: Rich Roll (1.6M subs) — https://www.youtube.com/channel/UCpjlh0e319ksmoOD7bQFSiw
+     Views: 3.0M  |  Engagement: 1.91x subs  |  Duration: 1:56:59  |  Published: 2024-04-01
+     Likes: 71.7K  Comments: 1.2K
+     ----------------------------------------------------------------------
+  18. Intro to Neuroanatomy | Neurophysiology | Neuroscience | Central Nervous System
+     https://www.youtube.com/watch?v=auogbJFitmI
+     Channel: Dr. Najeeb Lectures (2.5M subs) — https://www.youtube.com/channel/UCPHpx55tgrbm8FrYYCflAHw
+     Views: 4.1M  |  Engagement: 1.69x subs  |  Duration: 1:21:09  |  Published: 2019-01-29
+     Likes: 54.5K  Comments: 1.4K
+     ----------------------------------------------------------------------
+  19. Doctor Explains How Autistic Brains Are Built Different!
+     https://www.youtube.com/watch?v=INjBtl-9ghQ
+     Channel: Dr Karan (2.2M subs) — https://www.youtube.com/channel/UCc-Yj3lMj3s_n1tqcGIzQ6g
+     Views: 3.8M  |  Engagement: 1.69x subs  |  Duration: 0:44  |  Published: 2023-08-25
+     Likes: 239.2K  Comments: 6.2K
+     ----------------------------------------------------------------------
+  20. Dr. Joe Dispenza ON: How To BRAINWASH Yourself For Success & Destroy NEGATIVE THOUGHTS!
+     https://www.youtube.com/watch?v=d7sUWwHugg8
+     Channel: Jay Shetty Podcast (5.8M subs) — https://www.youtube.com/channel/UCbk_QsfaFZG6PdQeCvaYXJQ
+     Views: 9.1M  |  Engagement: 1.57x subs  |  Duration: 1:13:26  |  Published: 2023-05-29
+     Likes: 154.5K  Comments: 3.7K
+     ----------------------------------------------------------------------
+  21. 3 Things You Should Never Do In The Morning - Dr Andrew Huberman
+     https://www.youtube.com/watch?v=CYTwGx43SzY
+     Channel: Chris Williamson (4.3M subs) — https://www.youtube.com/channel/UCIaH-gZIVC432YRjNVvnyCA
+     Views: 6.3M  |  Engagement: 1.46x subs  |  Duration: 0:57  |  Published: 2022-10-29
+     Likes: 254.5K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  22. Nervous System
+     https://www.youtube.com/watch?v=RNLceVI8jcc
+     Channel: Amoeba Sisters (2.9M subs) — https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g
+     Views: 3.9M  |  Engagement: 1.35x subs  |  Duration: 11:32  |  Published: 2022-11-09
+     Likes: 50.7K  Comments: 911
+     ----------------------------------------------------------------------
+  23. After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver
+     https://www.youtube.com/watch?v=LNHBMFCzznE
+     Channel: TEDx Talks (44.5M subs) — https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
+     Views: 45.5M  |  Engagement: 1.02x subs  |  Duration: 14:24  |  Published: 2015-12-15
+     Likes: 584.6K  Comments: 13.7K
+     ----------------------------------------------------------------------
+  24. How The Immune System ACTUALLY Works – IMMUNE
+     https://www.youtube.com/watch?v=lXfEK8G8CUI
+     Channel: Kurzgesagt – In a Nutshell (25.3M subs) — https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
+     Views: 25.8M  |  Engagement: 1.02x subs  |  Duration: 10:48  |  Published: 2021-08-10
+     Likes: 628.1K  Comments: 32.0K
+     ----------------------------------------------------------------------
+  25. Leading Neuroscientist: Stress Leaks Through Skin, Is Contagious, Gives You Belly Fat! Dr Tara Swart
+     https://www.youtube.com/watch?v=hCW2NHbWNwA
+     Channel: The Diary Of A CEO (18.1M subs) — https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw
+     Views: 17.6M  |  Engagement: 0.97x subs  |  Duration: 2:04:34  |  Published: 2023-09-25
+     Likes: 359.4K  Comments: 16.1K
+     ----------------------------------------------------------------------
+  26. Dr Joe Dispenza: You MUST Do This Before 10am!
+     https://www.youtube.com/watch?v=rOYlOdDgYUU
+     Channel: The Diary Of A CEO (18.1M subs) — https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw
+     Views: 15.3M  |  Engagement: 0.85x subs  |  Duration: 2:00:06  |  Published: 2023-08-14
+     Likes: 288.8K  Comments: 9.8K
+     ----------------------------------------------------------------------
+  27. #1 Neurosurgeon: How to Manifest Anything You Want & Unlock the Unlimited Power of Your Mind
+     https://www.youtube.com/watch?v=s-wONyk3RV0
+     Channel: Mel Robbins (5.8M subs) — https://www.youtube.com/channel/UCk2U-Oqn7RXf-ydPqfSxG5g
+     Views: 4.8M  |  Engagement: 0.83x subs  |  Duration: 1:16:30  |  Published: 2024-10-24
+     Likes: 144.4K  Comments: 7.4K
+     ----------------------------------------------------------------------
+  28. The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!
+     https://www.youtube.com/watch?v=5o-tRub-0pQ
+     Channel: The Diary Of A CEO (18.1M subs) — https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw
+     Views: 12.0M  |  Engagement: 0.66x subs  |  Duration: 1:30:56  |  Published: 2024-05-23
+     Likes: 303.4K  Comments: 10.7K
+     ----------------------------------------------------------------------
+  29. The Nervous System, Part 1: Crash Course Anatomy & Physiology #8
+     https://www.youtube.com/watch?v=qPix_X-9t7E
+     Channel: CrashCourse (17.1M subs) — https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
+     Views: 10.9M  |  Engagement: 0.64x subs  |  Duration: 10:36  |  Published: 2015-02-23
+     Likes: 125.5K  Comments: 2.1K
+     ----------------------------------------------------------------------
+  30. Neuroscience Meets Psychology | Dr. Andrew Huberman | EP 296
+     https://www.youtube.com/watch?v=z-mJEZbHFLs
+     Channel: Jordan B Peterson (8.8M subs) — https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q
+     Views: 5.1M  |  Engagement: 0.58x subs  |  Duration: 1:42:32  |  Published: 2022-10-13
+     Likes: 135.4K  Comments: 6.4K
+     ----------------------------------------------------------------------
+  31. Neurology | Autonomic Nervous System
+     https://www.youtube.com/watch?v=7dZHmKMLdC0
+     Channel: Ninja Nerd (4.3M subs) — https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ
+     Views: 2.5M  |  Engagement: 0.56x subs  |  Duration: 31:00  |  Published: 2017-11-11
+     Likes: 50.9K  Comments: 1.1K
+     ----------------------------------------------------------------------
+  32. Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani
+     https://www.youtube.com/watch?v=fHBR1j1kJ1I
+     Channel: Raj Shamani (18.4M subs) — https://www.youtube.com/channel/UCzwCEE_PchiBULMnAJqhGVg
+     Views: 9.3M  |  Engagement: 0.51x subs  |  Duration: 1:45:10  |  Published: 2025-09-02
+     Likes: 231.8K  Comments: 7.4K
+     ----------------------------------------------------------------------
+  33. #1 Brain Neuroscientist: "This Will DELETE Your Old Self!" - How To Manifest Anything You Want
+     https://www.youtube.com/watch?v=cUbe6HbFncE
+     Channel: Jay Shetty Podcast (5.8M subs) — https://www.youtube.com/channel/UCbk_QsfaFZG6PdQeCvaYXJQ
+     Views: 2.7M  |  Engagement: 0.48x subs  |  Duration: 1:28:47  |  Published: 2025-11-03
+     Likes: 63.3K  Comments: 1.9K
+     ----------------------------------------------------------------------
+  34. The Nervous System, Part 2 - Action! Potential!: Crash Course Anatomy & Physiology #9
+     https://www.youtube.com/watch?v=OZG8M_ldA1M
+     Channel: CrashCourse (17.1M subs) — https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
+     Views: 8.1M  |  Engagement: 0.47x subs  |  Duration: 11:44  |  Published: 2015-03-02
+     Likes: 95.0K  Comments: 1.8K
+     ----------------------------------------------------------------------
+  35. The #1 Neuroscientist: After Listening to This, Your Brain Will Not Be the Same
+     https://www.youtube.com/watch?v=Uzt-Woc3CVk
+     Channel: Mel Robbins (5.8M subs) — https://www.youtube.com/channel/UCk2U-Oqn7RXf-ydPqfSxG5g
+     Views: 2.8M  |  Engagement: 0.47x subs  |  Duration: 1:28:08  |  Published: 2024-04-11
+     Likes: 74.3K  Comments: 2.1K
+     ----------------------------------------------------------------------
+  36. Dr. Joe Dispenza: WATCH THIS To Rewire Your Brain & ATTRACT Anything You Want
+     https://www.youtube.com/watch?v=F-MEegYIWaM
+     Channel: Jay Shetty Podcast (5.8M subs) — https://www.youtube.com/channel/UCbk_QsfaFZG6PdQeCvaYXJQ
+     Views: 2.7M  |  Engagement: 0.47x subs  |  Duration: 1:14:51  |  Published: 2024-10-07
+     Likes: 52.0K  Comments: 993
+     ----------------------------------------------------------------------
+  37. The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED
+     https://www.youtube.com/watch?v=BHY0FxzoKZE
+     Channel: TED (27.6M subs) — https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug
+     Views: 12.0M  |  Engagement: 0.43x subs  |  Duration: 13:03  |  Published: 2018-03-21
+     Likes: 377.9K  Comments: 7.9K
+     ----------------------------------------------------------------------
+  38. Dark Knight Rises Massacre - Neuroscience Student Says Killing People Will Cure His Depression
+     https://www.youtube.com/watch?v=bC0Dcm1CmNo
+     Channel: Rotten Mango (6.6M subs) — https://www.youtube.com/channel/UC0JJtK3m8pwy6rVgnBz47Rw
+     Views: 2.9M  |  Engagement: 0.43x subs  |  Duration: 1:44:36  |  Published: 2024-08-25
+     Likes: 77.3K  Comments: 4.6K
+     ----------------------------------------------------------------------
+  39. Neuroscientist (Dr. Tara Swart): Evidence We Can Communicate After Death!
+     https://www.youtube.com/watch?v=yfEQRqFo2bI
+     Channel: The Diary Of A CEO (18.1M subs) — https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw
+     Views: 6.7M  |  Engagement: 0.37x subs  |  Duration: 1:44:15  |  Published: 2025-08-14
+     Likes: 228.0K  Comments: 26.0K
+     ----------------------------------------------------------------------
+  40. Our Brains Are Not Special. But Why Are We?
+     https://www.youtube.com/watch?v=_z7DkeP5WNg
+     Channel: Kurzgesagt – In a Nutshell (25.3M subs) — https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
+     Views: 8.6M  |  Engagement: 0.34x subs  |  Duration: 0:49  |  Published: 2024-06-20
+     Likes: 516.1K  Comments: 4.8K
+     ----------------------------------------------------------------------
+  41. REWIRE Your Brain for Happiness | Science of Happiness
+     https://www.youtube.com/watch?v=hHU3gYOw3_s
+     Channel: GetsetflySCIENCE by Gaurav Thakur (9.8M subs) — https://www.youtube.com/channel/UC00ifCvU8YOOzbL3RdiSTDw
+     Views: 3.3M  |  Engagement: 0.34x subs  |  Duration: 35:42  |  Published: 2025-07-24
+     Likes: 99.8K  Comments: 4.4K
+     ----------------------------------------------------------------------
+  42. Dark Side Of Neuroscience That We Never Knew Before - Dr. Sid Warrier #shorts
+     https://www.youtube.com/watch?v=4FYLrLDAs8Y
+     Channel: BeerBiceps (8.2M subs) — https://www.youtube.com/channel/UCPxMZIFE856tbTfdkdjzTSQ
+     Views: 2.8M  |  Engagement: 0.34x subs  |  Duration: 0:56  |  Published: 2024-04-10
+     Likes: 145.6K  Comments: 256
+     ----------------------------------------------------------------------
+  43. Boost Your Brain Power - Sleep Hacks, Neuroscience & Dreams | TOP Doc Dr. Alok Sharma | TRS
+     https://www.youtube.com/watch?v=210uLW5dh8w
+     Channel: Ranveer Allahbadia (11.2M subs) — https://www.youtube.com/channel/UCneyi-aYq4VIBYIAQgWmk_w
+     Views: 3.6M  |  Engagement: 0.32x subs  |  Duration: 1:20:36  |  Published: 2024-11-14
+     Likes: 85.7K  Comments: 3.8K
+     ----------------------------------------------------------------------
+  44. Erasing Fears & Traumas Based on the Modern Neuroscience of Fear
+     https://www.youtube.com/watch?v=31wjVhCcI5Y
+     Channel: Andrew Huberman (7.6M subs) — https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg
+     Views: 2.4M  |  Engagement: 0.32x subs  |  Duration: 2:13:50  |  Published: 2021-12-06
+     Likes: 55.5K  Comments: 3.0K
+     ----------------------------------------------------------------------
+  45. Neuroscientist Answers Emotion Questions | Tech Support | WIRED
+     https://www.youtube.com/watch?v=ak3rou34P3M
+     Channel: WIRED (12.9M subs) — https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw
+     Views: 2.7M  |  Engagement: 0.21x subs  |  Duration: 20:04  |  Published: 2024-10-08
+     Likes: 78.7K  Comments: 2.8K
+     ----------------------------------------------------------------------
+  46. Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!
+     https://www.youtube.com/watch?v=m-nnyNZ0TQ0
+     Channel: The Diary Of A CEO (18.1M subs) — https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw
+     Views: 3.4M  |  Engagement: 0.19x subs  |  Duration: 1:33:19  |  Published: 2026-04-23
+     Likes: 62.6K  Comments: 3.6K
+     ----------------------------------------------------------------------
+  47. Brain Hack: 6 secrets to learning faster, backed by neuroscience | Lila Landowski | TEDxHobart
+     https://www.youtube.com/watch?v=kKvK2foOTJM
+     Channel: TEDx Talks (44.5M subs) — https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
+     Views: 7.7M  |  Engagement: 0.17x subs  |  Duration: 18:19  |  Published: 2023-05-16
+     Likes: 216.1K  Comments: 2.0K
+     ----------------------------------------------------------------------
+  48. No.1  Neuroscientist: you can change who you are in 30 days
+     https://www.youtube.com/watch?v=rCtvAvZtJyE
+     Channel: The Diary Of A CEO (18.1M subs) — https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw
+     Views: 3.1M  |  Engagement: 0.17x subs  |  Duration: 2:06:31  |  Published: 2025-04-17
+     Likes: 78.6K  Comments: 4.4K
+     ----------------------------------------------------------------------
+  49. Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani
+     https://www.youtube.com/watch?v=90lLQVZe2Nc
+     Channel: Raj Shamani (18.4M subs) — https://www.youtube.com/channel/UCzwCEE_PchiBULMnAJqhGVg
+     Views: 2.7M  |  Engagement: 0.15x subs  |  Duration: 3:03:42  |  Published: 2026-02-24
+     Likes: 63.5K  Comments: 3.4K
+     ----------------------------------------------------------------------
+  50. Top Brain Scientist: Billionaire Brain, Anxiety & Addictions | Vidita Vaidya | FO518 Raj Shamani
+     https://www.youtube.com/watch?v=lacFcgcHx6I
+     Channel: Raj Shamani (18.4M subs) — https://www.youtube.com/channel/UCzwCEE_PchiBULMnAJqhGVg
+     Views: 2.6M  |  Engagement: 0.14x subs  |  Duration: 2:52:02  |  Published: 2026-06-04
+     Likes: 55.5K  Comments: 2.2K
+     ----------------------------------------------------------------------
+
+  Quota used: ~102 units this call (search=100, videos.list=1, channels.list=1) out of the 10,000/day free budget.
+

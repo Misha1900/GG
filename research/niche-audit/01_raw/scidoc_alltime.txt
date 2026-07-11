@@ -1,0 +1,307 @@
+
+  Searching YouTube (Data API v3) for: "science documentary"
+  order=viewCount  limit=50
+
+  1. What's At the Edge of the Universe? #science
+     https://www.youtube.com/watch?v=qQHcdeOfeCk
+     Channel: The Science Squid (29.0K subs) — https://www.youtube.com/channel/UCK2hp5yDumkjkKl_xZ5pllQ
+     Views: 9.8M  |  Engagement: 339.56x subs  |  Duration: 1:00  |  Published: 2024-11-03
+     Likes: 329.3K  Comments: 10.4K
+     ----------------------------------------------------------------------
+  2. Biology | "What's In Our Digestive System?" Explained | Human Body | Science for Kids
+     https://www.youtube.com/watch?v=W55-QiHCYGA
+     Channel: Big Bang Academy Kids (129.0K subs) — https://www.youtube.com/channel/UCa1w8_QFAteJ0rSSw_FlhNw
+     Views: 20.7M  |  Engagement: 160.65x subs  |  Duration: 4:32  |  Published: 2021-11-04
+     Likes: 28.0K  Comments: 0
+     ----------------------------------------------------------------------
+  3. Black Holes Explained With A Bucket And Ball 🌟
+     https://www.youtube.com/watch?v=64_J02ACvaw
+     Channel: Space Rewind (80.3K subs) — https://www.youtube.com/channel/UCIeLYhzDNsiTAf5DsvpWhmA
+     Views: 8.2M  |  Engagement: 101.68x subs  |  Duration: 1:00  |  Published: 2023-09-21
+     Likes: 291.4K  Comments: 6.1K
+     ----------------------------------------------------------------------
+  4. Why Deep Sea Creatures Get Creepier the Deeper You Go
+     https://www.youtube.com/watch?v=mzeN0BXR4e0
+     Channel: Mr. Science (209.0K subs) — https://www.youtube.com/channel/UCOM1gIM4Q_-OniEdhUvHEkA
+     Views: 16.4M  |  Engagement: 78.24x subs  |  Duration: 17:58  |  Published: 2025-11-02
+     Likes: 215.5K  Comments: 8.8K
+     ----------------------------------------------------------------------
+  5. अफ्रीका से भारत में अधिमानव कैसे आए ? The Complete Story Of The Early Humans Of India (Documentary)
+     https://www.youtube.com/watch?v=S4PWR3xYQ1I
+     Channel: DOCUMENTARY INDUSTRIES (212.0K subs) — https://www.youtube.com/channel/UC7Ck5spqgarM--MHnSRyzgw
+     Views: 6.8M  |  Engagement: 31.92x subs  |  Duration: 32:40  |  Published: 2026-01-17
+     Likes: N/A  Comments: 2.1K
+     ----------------------------------------------------------------------
+  6. What They Found In the Deepest Place on Earth
+     https://www.youtube.com/watch?v=HA4_gVHBUXc
+     Channel: Astrum Earth (404.0K subs) — https://www.youtube.com/channel/UCWBtLCE-BnzZx3DneqDiXWQ
+     Views: 12.1M  |  Engagement: 29.88x subs  |  Duration: 34:38  |  Published: 2025-08-18
+     Likes: 90.4K  Comments: 2.5K
+     ----------------------------------------------------------------------
+  7. The ENTIRE History of Human Civilizations | Ancient to Modern (4K Documentary) [Full Movie]
+     https://www.youtube.com/watch?v=ha1NneZGm7A
+     Channel: Beginning To Now (313.0K subs) — https://www.youtube.com/channel/UC-QTh5HFiw28MwFrmFrRjzA
+     Views: 9.1M  |  Engagement: 29.21x subs  |  Duration: 2:32:10  |  Published: 2023-08-08
+     Likes: 107.2K  Comments: 5.9K
+     ----------------------------------------------------------------------
+  8. Why Nobody Can Cross Darien Gap 🤔 What's Wrong here? 🤯
+     https://www.youtube.com/watch?v=tT-BzWbyqkw
+     Channel: Geo All Day (360.0K subs) — https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w
+     Views: 9.5M  |  Engagement: 26.48x subs  |  Duration: 1:00  |  Published: 2024-09-09
+     Likes: 245.3K  Comments: 2.8K
+     ----------------------------------------------------------------------
+  9. Ocean mysteries
+     https://www.youtube.com/watch?v=S0QDIQpvLTM
+     Channel: Doctor NOS (1.8M subs) — https://www.youtube.com/channel/UC8GlzFmANazkqEEojSl1ETA
+     Views: 46.1M  |  Engagement: 25.45x subs  |  Duration: 0:39  |  Published: 2023-05-11
+     Likes: 1.2M  Comments: 9.1K
+     ----------------------------------------------------------------------
+  10. An Alien 5% Smarter Than Us
+     https://www.youtube.com/watch?v=ClYpyy7HLRY
+     Channel: Science Time (1.2M subs) — https://www.youtube.com/channel/UCxoz4YfS4M3H3C57FD4jW4Q
+     Views: 26.6M  |  Engagement: 22.9x subs  |  Duration: 0:52  |  Published: 2023-02-05
+     Likes: 1.2M  Comments: 25.2K
+     ----------------------------------------------------------------------
+  11. Mars Rover Finds Plastic On Mars
+     https://www.youtube.com/watch?v=zprpH_5qFF0
+     Channel: ElderFox Documentaries (719.0K subs) — https://www.youtube.com/channel/UCZvxw99l3xDC6BIHb8nJKGg
+     Views: 12.9M  |  Engagement: 17.99x subs  |  Duration: 0:44  |  Published: 2023-03-28
+     Likes: 260.6K  Comments: 18.1K
+     ----------------------------------------------------------------------
+  12. The two greatest mysteries in science #michiokaku
+     https://www.youtube.com/watch?v=EC_wGGqxZCM
+     Channel: The Science Fact (609.0K subs) — https://www.youtube.com/channel/UCQxbkY1l9orvoMLv04pCOcQ
+     Views: 10.3M  |  Engagement: 16.91x subs  |  Duration: 0:38  |  Published: 2023-11-16
+     Likes: 289.1K  Comments: 8.6K
+     ----------------------------------------------------------------------
+  13. ALL OF PHYSICS explained in 14 Minutes
+     https://www.youtube.com/watch?v=ZAqIoDhornk
+     Channel: Wacky Science (789.0K subs) — https://www.youtube.com/channel/UC8VhAX-voAUegprM4SpHQJQ
+     Views: 10.2M  |  Engagement: 12.89x subs  |  Duration: 14:20  |  Published: 2024-02-17
+     Likes: 610.1K  Comments: 15.0K
+     ----------------------------------------------------------------------
+  14. THE LAST DAY OF DINOSAURS | ReYOUniverse
+     https://www.youtube.com/watch?v=UChQHrjefVU
+     Channel: ReYOUniverse (794.0K subs) — https://www.youtube.com/channel/UCcxQHI0pPuOQWLaTJJZoBIQ
+     Views: 10.1M  |  Engagement: 12.78x subs  |  Duration: 25:18  |  Published: 2022-03-06
+     Likes: 83.7K  Comments: 7.7K
+     ----------------------------------------------------------------------
+  15. How Big is The Universe?
+     https://www.youtube.com/watch?v=pSHVbLPWA28
+     Channel: Science Time (1.2M subs) — https://www.youtube.com/channel/UCxoz4YfS4M3H3C57FD4jW4Q
+     Views: 13.7M  |  Engagement: 11.84x subs  |  Duration: 11:10  |  Published: 2024-02-03
+     Likes: 162.1K  Comments: 13.3K
+     ----------------------------------------------------------------------
+  16. Antarctica (2026) The Forbidden Continent That Holds Earth's True History
+     https://www.youtube.com/watch?v=Vrtbxvefnjs
+     Channel: Secret Origins (595.0K subs) — https://www.youtube.com/channel/UCxAt0KkZZUxgG3yxl-WDM2A
+     Views: 6.8M  |  Engagement: 11.41x subs  |  Duration: 1:30:42  |  Published: 2025-06-29
+     Likes: 51.7K  Comments: 4.7K
+     ----------------------------------------------------------------------
+  17. The Depths of the North Sea: Life in the Cold Abyss | Secrets of the Seas Ep. 1 | 4K UHD Documentary
+     https://www.youtube.com/watch?v=Ceww6yLijFc
+     Channel: space and science (580.0K subs) — https://www.youtube.com/channel/UC1-7mA0mKsCTyCMG4JNO3EQ
+     Views: 6.6M  |  Engagement: 11.3x subs  |  Duration: 50:07  |  Published: 2024-08-23
+     Likes: 30.5K  Comments: 797
+     ----------------------------------------------------------------------
+  18. 80 Years Since The Atomic Bombing Of Hiroshima & Nagasaki
+     https://www.youtube.com/watch?v=YiHrDjFKM5s
+     Channel: Science Time (1.2M subs) — https://www.youtube.com/channel/UCxoz4YfS4M3H3C57FD4jW4Q
+     Views: 11.6M  |  Engagement: 10.03x subs  |  Duration: 17:42  |  Published: 2025-08-09
+     Likes: 48.3K  Comments: 8.0K
+     ----------------------------------------------------------------------
+  19. This Bacteria Poops Pure Gold!
+     https://www.youtube.com/watch?v=5c_P9gF-3gs
+     Channel: Mr Scientific (1.4M subs) — https://www.youtube.com/channel/UCj_2_t-iugOjrhv4XUwVFYg
+     Views: 13.6M  |  Engagement: 9.43x subs  |  Duration: 0:41  |  Published: 2025-07-21
+     Likes: 272.9K  Comments: 6.5K
+     ----------------------------------------------------------------------
+  20. The Abyss | Deep Sea Documentary for Sleep (4K)
+     https://www.youtube.com/watch?v=SXWDW62h_QY
+     Channel: Natural World Facts (1.1M subs) — https://www.youtube.com/channel/UCG5_BraUMNcluZPZ__oOeKg
+     Views: 8.0M  |  Engagement: 7.55x subs  |  Duration: 43:01  |  Published: 2025-08-30
+     Likes: 139.6K  Comments: 2.3K
+     ----------------------------------------------------------------------
+  21. Your Brain: Who's in Control? | Full Documentary | NOVA | PBS
+     https://www.youtube.com/watch?v=yQ6VOOd73MA
+     Channel: NOVA PBS Official (1.5M subs) — https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA
+     Views: 10.8M  |  Engagement: 7.26x subs  |  Duration: 53:33  |  Published: 2023-06-01
+     Likes: 151.4K  Comments: 6.2K
+     ----------------------------------------------------------------------
+  22. The Insane Biology of: The Octopus
+     https://www.youtube.com/watch?v=mFP_AjJeP-M
+     Channel: Real Science (2.1M subs) — https://www.youtube.com/channel/UC176GAQozKKjhz62H8u9vQQ
+     Views: 15.0M  |  Engagement: 7.22x subs  |  Duration: 21:27  |  Published: 2020-11-14
+     Likes: 303.1K  Comments: 17.2K
+     ----------------------------------------------------------------------
+  23. Deep Sea Gigantism | Why the Ocean Breeds Giants
+     https://www.youtube.com/watch?v=FmR14Yng9kI
+     Channel: Natural World Facts (1.1M subs) — https://www.youtube.com/channel/UCG5_BraUMNcluZPZ__oOeKg
+     Views: 6.6M  |  Engagement: 6.24x subs  |  Duration: 32:49  |  Published: 2022-11-15
+     Likes: 137.1K  Comments: 3.1K
+     ----------------------------------------------------------------------
+  24. Decoding the Universe: Quantum | Full Documentary | NOVA | PBS
+     https://www.youtube.com/watch?v=t06aTX9jM34
+     Channel: NOVA PBS Official (1.5M subs) — https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA
+     Views: 8.4M  |  Engagement: 5.68x subs  |  Duration: 53:58  |  Published: 2024-11-07
+     Likes: 63.5K  Comments: 3.0K
+     ----------------------------------------------------------------------
+  25. Eight Wonders Of Our Solar System | The Planets | BBC Earth Science
+     https://www.youtube.com/watch?v=wkQuOrsgVGY
+     Channel: BBC Earth Science (1.8M subs) — https://www.youtube.com/channel/UCdsOTr6SmDrxuWE7sJFrkhQ
+     Views: 9.9M  |  Engagement: 5.49x subs  |  Duration: 1:05:30  |  Published: 2023-02-26
+     Likes: 73.2K  Comments: 4.1K
+     ----------------------------------------------------------------------
+  26. Shocking Discoveries Voyager Made at the Edge of the Solar System
+     https://www.youtube.com/watch?v=fSbm5LCJspk
+     Channel: Destiny (2.0M subs) — https://www.youtube.com/channel/UCIFtADcWrOApqrsinzPoOfA
+     Views: 10.4M  |  Engagement: 5.19x subs  |  Duration: 45:55  |  Published: 2025-01-25
+     Likes: 95.9K  Comments: 6.3K
+     ----------------------------------------------------------------------
+  27. Black Hole Apocalypse: What's Inside a Black Hole? | Full Documentary | NOVA | PBS
+     https://www.youtube.com/watch?v=1LYSfpKog4w
+     Channel: NOVA PBS Official (1.5M subs) — https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA
+     Views: 7.3M  |  Engagement: 4.96x subs  |  Duration: 1:53:04  |  Published: 2023-08-25
+     Likes: 41.4K  Comments: 3.4K
+     ----------------------------------------------------------------------
+  28. Stingray - How Stingrays Sting
+     https://www.youtube.com/watch?v=PtKj5yGJbO4
+     Channel: Odd Animal Specimens (5.1M subs) — https://www.youtube.com/channel/UCSz8X-JAmenxLH-uXlgVaCg
+     Views: 22.1M  |  Engagement: 4.37x subs  |  Duration: 0:42  |  Published: 2021-10-27
+     Likes: 1.1M  Comments: 5.6K
+     ----------------------------------------------------------------------
+  29. What Happens If A Super Volcano Erupts? | The Yellowstone Super Volcano
+     https://www.youtube.com/watch?v=pgwPBDjrOg8
+     Channel: Naked Science (1.7M subs) — https://www.youtube.com/channel/UC8JT2m0mKEgvEtie3JNKwew
+     Views: 7.1M  |  Engagement: 4.1x subs  |  Duration: 49:40  |  Published: 2024-01-05
+     Likes: 40.7K  Comments: 5.1K
+     ----------------------------------------------------------------------
+  30. Benefits of Grounding Yourself to Earth's Surface Are REMARKABLE
+     https://www.youtube.com/watch?v=tdD0xP4040s
+     Channel: Gaia (1.8M subs) — https://www.youtube.com/channel/UCFVqzO9_qHVckKqNC95o9tw
+     Views: 7.5M  |  Engagement: 4.07x subs  |  Duration: 1:00  |  Published: 2022-11-08
+     Likes: 307.2K  Comments: 10.8K
+     ----------------------------------------------------------------------
+  31. 15 Most Dangerous Places on Earth
+     https://www.youtube.com/watch?v=bXZzvLqIX0Q
+     Channel: Top Fives (3.1M subs) — https://www.youtube.com/channel/UCbAlVnKhbGLK78GsSemQXxw
+     Views: 9.3M  |  Engagement: 2.97x subs  |  Duration: 16:34  |  Published: 2020-05-29
+     Likes: 64.7K  Comments: 3.1K
+     ----------------------------------------------------------------------
+  32. The Massive Machine Hidden Under Antarctica
+     https://www.youtube.com/watch?v=5CkRJnY2NNg
+     Channel: Cleo Abram (8.4M subs) — https://www.youtube.com/channel/UC415bOPUcGSamy543abLmRA
+     Views: 17.5M  |  Engagement: 2.09x subs  |  Duration: 0:57  |  Published: 2026-01-02
+     Likes: 653.5K  Comments: 6.8K
+     ----------------------------------------------------------------------
+  33. Must... Not... Eat...| How It's Made | Science Channel
+     https://www.youtube.com/watch?v=0pnMO3THFIw
+     Channel: Science Channel (5.3M subs) — https://www.youtube.com/channel/UCvJiYiBUbw4tmpRSZT2r1Hw
+     Views: 10.8M  |  Engagement: 2.03x subs  |  Duration: 1:00  |  Published: 2024-09-21
+     Likes: 400.1K  Comments: 6.4K
+     ----------------------------------------------------------------------
+  34. Human Body - Science for Kids - Rock 'N Learn
+     https://www.youtube.com/watch?v=AHQGNb0zBgg
+     Channel: Rock 'N Learn (3.7M subs) — https://www.youtube.com/channel/UCExx109KH5msQR0n52ZzyAw
+     Views: 7.3M  |  Engagement: 1.97x subs  |  Duration: 38:00  |  Published: 2019-09-25
+     Likes: 31.9K  Comments: 0
+     ----------------------------------------------------------------------
+  35. New Discovery Inside Great Pyramid
+     https://www.youtube.com/watch?v=SUInyhPJjJE
+     Channel: Cleo Abram (8.4M subs) — https://www.youtube.com/channel/UC415bOPUcGSamy543abLmRA
+     Views: 16.2M  |  Engagement: 1.94x subs  |  Duration: 1:00  |  Published: 2023-06-28
+     Likes: 936.7K  Comments: 8.0K
+     ----------------------------------------------------------------------
+  36. The Discovery Of The Earliest Human Ancestor | First Human | Timeline
+     https://www.youtube.com/watch?v=vJybfmbrOCE
+     Channel: Timeline - World History Documentaries (5.9M subs) — https://www.youtube.com/channel/UC88lvyJe7aHZmcvzvubDFRg
+     Views: 9.5M  |  Engagement: 1.62x subs  |  Duration: 48:46  |  Published: 2017-08-16
+     Likes: 63.0K  Comments: 16.5K
+     ----------------------------------------------------------------------
+  37. The Most Misunderstood Concept in Physics
+     https://www.youtube.com/watch?v=DxL2HoqLbyA
+     Channel: Veritasium (21.0M subs) — https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+     Views: 29.9M  |  Engagement: 1.42x subs  |  Duration: 27:15  |  Published: 2023-07-01
+     Likes: 718.5K  Comments: 26.8K
+     ----------------------------------------------------------------------
+  38. Huge New Discovery About The Universe
+     https://www.youtube.com/watch?v=hHYtYGh_QzA
+     Channel: Cleo Abram (8.4M subs) — https://www.youtube.com/channel/UC415bOPUcGSamy543abLmRA
+     Views: 10.9M  |  Engagement: 1.3x subs  |  Duration: 1:00  |  Published: 2023-07-07
+     Likes: 610.7K  Comments: 4.7K
+     ----------------------------------------------------------------------
+  39. Lost World of the Maya (Full Episode) | National Geographic
+     https://www.youtube.com/watch?v=7MFKy7DJsCY
+     Channel: National Geographic (26.2M subs) — https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A
+     Views: 31.5M  |  Engagement: 1.2x subs  |  Duration: 44:25  |  Published: 2020-12-30
+     Likes: 257.1K  Comments: 9.8K
+     ----------------------------------------------------------------------
+  40. Everything About Solar System | Solar System Explained | The Dr Binocs Show | Peekaboo Kidz
+     https://www.youtube.com/watch?v=ErUZVWUP0c4
+     Channel: Peekaboo Kidz (7.6M subs) — https://www.youtube.com/channel/UCxlJ45KjG4XVcQ_hd8j227A
+     Views: 8.8M  |  Engagement: 1.15x subs  |  Duration: 28:53  |  Published: 2021-09-28
+     Likes: 38.6K  Comments: 0
+     ----------------------------------------------------------------------
+  41. How A Nuke Works 😬
+     https://www.youtube.com/watch?v=K9TJ52Relww
+     Channel: Zack D. Films (27.6M subs) — https://www.youtube.com/channel/UCvz84_Q0BbvZThy75mbd-Dg
+     Views: 30.6M  |  Engagement: 1.11x subs  |  Duration: 0:26  |  Published: 2023-06-24
+     Likes: 1.2M  Comments: 9.1K
+     ----------------------------------------------------------------------
+  42. Could We Survive Earth Getting Spaghettified by a Black Hole?
+     https://www.youtube.com/watch?v=KtoefCOBcgg
+     Channel: What If (8.9M subs) — https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g
+     Views: 8.8M  |  Engagement: 0.98x subs  |  Duration: 7:12  |  Published: 2021-04-28
+     Likes: 86.9K  Comments: 5.8K
+     ----------------------------------------------------------------------
+  43. How Earth Survived a 10km Asteroid and 4.5 Billion Years of Hell
+     https://www.youtube.com/watch?v=LinWJsangs4
+     Channel: What If (8.9M subs) — https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g
+     Views: 7.5M  |  Engagement: 0.84x subs  |  Duration: 10:35  |  Published: 2023-07-09
+     Likes: 81.4K  Comments: 6.1K
+     ----------------------------------------------------------------------
+  44. CUBED UFO PUZZLES PILOT - “It Shouldn’t Be There” | The Proof Is Out There | #Shorts | History
+     https://www.youtube.com/watch?v=jtZGKYO7iyI
+     Channel: HISTORY (15.4M subs) — https://www.youtube.com/channel/UC9MAhZQQd9egwWCxrwSIsJQ
+     Views: 11.3M  |  Engagement: 0.74x subs  |  Duration: 0:59  |  Published: 2022-04-12
+     Likes: 338.2K  Comments: 17.4K
+     ----------------------------------------------------------------------
+  45. Let's Cut Mount Everest In Half
+     https://www.youtube.com/watch?v=7VYXHiLAIK4
+     Channel: Vsauce (24.9M subs) — https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
+     Views: 17.0M  |  Engagement: 0.68x subs  |  Duration: 0:48  |  Published: 2023-02-23
+     Likes: 1.0M  Comments: 9.0K
+     ----------------------------------------------------------------------
+  46. 4.5 Billion Years in 1 Hour
+     https://www.youtube.com/watch?v=S7TUe5w6RHo
+     Channel: Kurzgesagt – In a Nutshell (25.3M subs) — https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
+     Views: 17.0M  |  Engagement: 0.67x subs  |  Duration: 1:03:31  |  Published: 2023-11-10
+     Likes: 733.1K  Comments: 31.9K
+     ----------------------------------------------------------------------
+  47. NASA ROVER SPOTS ALIENS | The Proof Is Out There | #Shorts | History
+     https://www.youtube.com/watch?v=Tk_vMkoe7YU
+     Channel: HISTORY (15.4M subs) — https://www.youtube.com/channel/UC9MAhZQQd9egwWCxrwSIsJQ
+     Views: 8.0M  |  Engagement: 0.52x subs  |  Duration: 0:41  |  Published: 2022-11-18
+     Likes: 199.7K  Comments: 6.7K
+     ----------------------------------------------------------------------
+  48. This is the natural disaster to worry about
+     https://www.youtube.com/watch?v=AFXLZ7FEJc4
+     Channel: Veritasium (21.0M subs) — https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+     Views: 9.6M  |  Engagement: 0.46x subs  |  Duration: 41:07  |  Published: 2025-08-22
+     Likes: 210.0K  Comments: 12.6K
+     ----------------------------------------------------------------------
+  49. What happens if you drop 0.125 grams of antimatter?
+     https://www.youtube.com/watch?v=jjp3WC8Unj8
+     Channel: Veritasium (21.0M subs) — https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+     Views: 9.6M  |  Engagement: 0.46x subs  |  Duration: 58:54  |  Published: 2026-04-05
+     Likes: 182.7K  Comments: 12.7K
+     ----------------------------------------------------------------------
+  50. Black Holes 101 | National Geographic
+     https://www.youtube.com/watch?v=kOEDG3j1bjs
+     Channel: National Geographic (26.2M subs) — https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A
+     Views: 11.7M  |  Engagement: 0.44x subs  |  Duration: 3:11  |  Published: 2018-09-20
+     Likes: 99.0K  Comments: 3.2K
+     ----------------------------------------------------------------------
+
+  Quota used: ~102 units this call (search=100, videos.list=1, channels.list=1) out of the 10,000/day free budget.
+
