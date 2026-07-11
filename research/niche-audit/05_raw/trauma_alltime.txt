@@ -1,0 +1,307 @@
+
+  Searching YouTube (Data API v3) for: "trauma response explained"
+  order=viewCount  limit=50
+
+  1. Trauma and the Brain
+     https://www.youtube.com/watch?v=4-tcKYx24aA
+     Channel: mediaco-op (5.1K subs) — https://www.youtube.com/channel/UCgHRVXoapfhZFwgHZfVw3og
+     Views: 1.3M  |  Engagement: 261.32x subs  |  Duration: 8:45  |  Published: 2015-09-21
+     Likes: 14.3K  Comments: 399
+     ----------------------------------------------------------------------
+  2. The Fight Flight Freeze Response
+     https://www.youtube.com/watch?v=jEHwB1PG_-Q
+     Channel: Braive (8.9K subs) — https://www.youtube.com/channel/UCZEUBZcAod1AjmXPUy2jEgQ
+     Views: 1.6M  |  Engagement: 179.76x subs  |  Duration: 3:06  |  Published: 2016-03-31
+     Likes: 9.8K  Comments: 437
+     ----------------------------------------------------------------------
+  3. Conducting a Quick Screen for Trauma - Child Interview
+     https://www.youtube.com/watch?v=rKTYOAI65zE
+     Channel: CAMH Education (42.2K subs) — https://www.youtube.com/channel/UCg-IGw3hBbz9RFgfnSW0ESw
+     Views: 3.7M  |  Engagement: 87.35x subs  |  Duration: 11:42  |  Published: 2017-03-15
+     Likes: 56.2K  Comments: N/A
+     ----------------------------------------------------------------------
+  4. Brain Degradation of a Pro MMA Fighter Over Time #CTE #concussion #headinjury #neurology
+     https://www.youtube.com/watch?v=woA90jKUwF8
+     Channel: Dr. Nathan Keiser (91.3K subs) — https://www.youtube.com/channel/UCauRzz7tFpp8IJne55r3Qig
+     Views: 7.3M  |  Engagement: 79.47x subs  |  Duration: 0:49  |  Published: 2024-09-06
+     Likes: 318.7K  Comments: 14.7K
+     ----------------------------------------------------------------------
+  5. Trauma and the Nervous System: A Polyvagal Perspective
+     https://www.youtube.com/watch?v=ZdIQRxwT1I0
+     Channel: The Trauma Foundation (17.4K subs) — https://www.youtube.com/channel/UCOtM9ggSL9RQ8REgENSk2eA
+     Views: 1.3M  |  Engagement: 72.77x subs  |  Duration: 8:58  |  Published: 2021-02-23
+     Likes: 21.1K  Comments: 576
+     ----------------------------------------------------------------------
+  6. Childhood Trauma and the Brain | UK Trauma Council
+     https://www.youtube.com/watch?v=xYBUY1kZpf8
+     Channel: Anna Freud (55.8K subs) — https://www.youtube.com/channel/UCN8HoTxrHO8RJdoB4isH0lA
+     Views: 3.8M  |  Engagement: 67.47x subs  |  Duration: 5:11  |  Published: 2020-09-16
+     Likes: 123.4K  Comments: N/A
+     ----------------------------------------------------------------------
+  7. TRE™ (Tension & Trauma Releasing Exercises): Full Instructions with Dr. David Berceli (OFFICIAL)
+     https://www.youtube.com/watch?v=FeUioDuJjFI
+     Channel: TRE FOR ALL (41.1K subs) — https://www.youtube.com/channel/UCY0BSkFcY0DqIcRRQiJKyUg
+     Views: 2.5M  |  Engagement: 59.94x subs  |  Duration: 13:28  |  Published: 2019-11-26
+     Likes: 34.8K  Comments: N/A
+     ----------------------------------------------------------------------
+  8. Understanding Trauma: Learning Brain vs Survival Brain
+     https://www.youtube.com/watch?v=KoqaUANGvpA
+     Channel: Jacob Ham (28.6K subs) — https://www.youtube.com/channel/UCdpMZfwdxyqpvoC74eaF-2A
+     Views: 1.1M  |  Engagement: 38.18x subs  |  Duration: 4:58  |  Published: 2017-07-25
+     Likes: 18.4K  Comments: 1.2K
+     ----------------------------------------------------------------------
+  9. Peter Levine's Secret to Releasing Trauma from the Body
+     https://www.youtube.com/watch?v=s1RnTipiU_Q
+     Channel: Psychotherapy Networker (37.0K subs) — https://www.youtube.com/channel/UCbVuoOwCplB3OZI2IB_TA5A
+     Views: 1.4M  |  Engagement: 37.31x subs  |  Duration: 6:09  |  Published: 2016-09-16
+     Likes: 25.5K  Comments: 1.1K
+     ----------------------------------------------------------------------
+  10. ADHD Explained in 60 SECONDS.
+     https://www.youtube.com/watch?v=rVL3mO68LOU
+     Channel: GROWTH™ (1.6M subs) — https://www.youtube.com/channel/UCGT_BYcMHygJYqYWZjGx68A
+     Views: 20.5M  |  Engagement: 12.49x subs  |  Duration: 1:00  |  Published: 2025-03-25
+     Likes: 529.3K  Comments: 9.9K
+     ----------------------------------------------------------------------
+  11. Up-Close Look At Real Life In Trauma Unit
+     https://www.youtube.com/watch?v=MiosxRZbF3M
+     Channel: CBS TEXAS (559.0K subs) — https://www.youtube.com/channel/UCxMXl9L79X1Mq_4iwCOyPFg
+     Views: 6.4M  |  Engagement: 11.52x subs  |  Duration: 3:58  |  Published: 2017-03-02
+     Likes: 53.8K  Comments: 2.3K
+     ----------------------------------------------------------------------
+  12. Cyberpunk's Medical Corporation - Trauma Team | Cyberpunk 2077 Lore
+     https://www.youtube.com/watch?v=4u9KxaaFwdY
+     Channel: WiseFish (231.0K subs) — https://www.youtube.com/channel/UCvsVl1wbrffYn5NuTysLHqQ
+     Views: 2.2M  |  Engagement: 9.34x subs  |  Duration: 30:16  |  Published: 2023-04-26
+     Likes: 64.0K  Comments: 2.8K
+     ----------------------------------------------------------------------
+  13. What Betrayal Trauma Does to the Brain | The Impacts of Partner Betrayal Trauma
+     https://www.youtube.com/watch?v=hgSNuZlnarc
+     Channel: Dr. Doug Weiss (162.0K subs) — https://www.youtube.com/channel/UCmLKg2IviWqr2ENIYuJ-KGg
+     Views: 1.2M  |  Engagement: 7.63x subs  |  Duration: 11:34  |  Published: 2023-05-15
+     Likes: 35.4K  Comments: 5.2K
+     ----------------------------------------------------------------------
+  14. Vagus Nerve Reset To Release Trauma Stored In The Body (Polyvagal Exercises)
+     https://www.youtube.com/watch?v=eFV0FfMc_uo
+     Channel: Sukie Baxter (591.0K subs) — https://www.youtube.com/channel/UCHCABftGT184YQ33z8I1uCw
+     Views: 4.4M  |  Engagement: 7.4x subs  |  Duration: 5:41  |  Published: 2020-10-19
+     Likes: 160.2K  Comments: 5.9K
+     ----------------------------------------------------------------------
+  15. 11 Oddly Specific Childhood Trauma Issues
+     https://www.youtube.com/watch?v=lULd-wnWjT4
+     Channel: Patrick Teahan  (814.0K subs) — https://www.youtube.com/channel/UCbWvYupGqq3aMJ6LsG4q-Yg
+     Views: 5.6M  |  Engagement: 6.93x subs  |  Duration: 39:03  |  Published: 2023-04-05
+     Likes: 195.9K  Comments: 13.0K
+     ----------------------------------------------------------------------
+  16. Hidden Trauma | You Have To See This!!
+     https://www.youtube.com/watch?v=_mfxQEq6BrQ
+     Channel: Dr Julie (1.9M subs) — https://www.youtube.com/channel/UCl8TEoIOnMq_5ntJOYMq-Zg
+     Views: 8.7M  |  Engagement: 4.52x subs  |  Duration: 0:58  |  Published: 2023-05-23
+     Likes: 491.4K  Comments: 4.1K
+     ----------------------------------------------------------------------
+  17. Your body with complex trauma
+     https://www.youtube.com/watch?v=YlHQM-kjuBg
+     Channel: The Holistic Psychologist (841.0K subs) — https://www.youtube.com/channel/UCtEWTaMjqOH8J1Gy06Ey0Yg
+     Views: 3.1M  |  Engagement: 3.74x subs  |  Duration: 0:40  |  Published: 2023-11-03
+     Likes: 180.3K  Comments: 5.5K
+     ----------------------------------------------------------------------
+  18. Is this your real personality? 5 Childhood Trauma Personalities
+     https://www.youtube.com/watch?v=WiGbgKICNEU
+     Channel: Patrick Teahan  (814.0K subs) — https://www.youtube.com/channel/UCbWvYupGqq3aMJ6LsG4q-Yg
+     Views: 1.9M  |  Engagement: 2.38x subs  |  Duration: 47:35  |  Published: 2024-01-07
+     Likes: 75.2K  Comments: 8.5K
+     ----------------------------------------------------------------------
+  19. Emotional Trauma | You Have To See This!!
+     https://www.youtube.com/watch?v=wOt2cFPQpV0
+     Channel: Dr Julie (1.9M subs) — https://www.youtube.com/channel/UCl8TEoIOnMq_5ntJOYMq-Zg
+     Views: 4.2M  |  Engagement: 2.21x subs  |  Duration: 0:59  |  Published: 2022-09-29
+     Likes: 322.2K  Comments: 3.7K
+     ----------------------------------------------------------------------
+  20. Adult ADHD and Childhood Trauma
+     https://www.youtube.com/watch?v=lYD0Q4oMYXw
+     Channel: Patrick Teahan  (814.0K subs) — https://www.youtube.com/channel/UCbWvYupGqq3aMJ6LsG4q-Yg
+     Views: 1.7M  |  Engagement: 2.13x subs  |  Duration: 35:13  |  Published: 2022-01-16
+     Likes: 81.2K  Comments: 5.4K
+     ----------------------------------------------------------------------
+  21. “UNDERSTANDING CPTSD”
+     https://www.youtube.com/watch?v=xoWyzpQa9AQ
+     Channel: The Holistic Psychologist (841.0K subs) — https://www.youtube.com/channel/UCtEWTaMjqOH8J1Gy06Ey0Yg
+     Views: 1.5M  |  Engagement: 1.83x subs  |  Duration: 1:00  |  Published: 2022-10-08
+     Likes: 112.2K  Comments: 3.2K
+     ----------------------------------------------------------------------
+  22. Healing Trauma | You Have To See This!!
+     https://www.youtube.com/watch?v=CEoCJcssJWA
+     Channel: Dr Julie (1.9M subs) — https://www.youtube.com/channel/UCl8TEoIOnMq_5ntJOYMq-Zg
+     Views: 3.2M  |  Engagement: 1.66x subs  |  Duration: 0:45  |  Published: 2024-01-25
+     Likes: 169.4K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  23. The Highly Sensitive Person and Childhood Trauma
+     https://www.youtube.com/watch?v=GEtygF6LHkk
+     Channel: Patrick Teahan  (814.0K subs) — https://www.youtube.com/channel/UCbWvYupGqq3aMJ6LsG4q-Yg
+     Views: 1.3M  |  Engagement: 1.55x subs  |  Duration: 32:25  |  Published: 2022-01-02
+     Likes: 58.1K  Comments: 6.1K
+     ----------------------------------------------------------------------
+  24. How Childhood Trauma Leads to Addiction - Gabor Maté
+     https://www.youtube.com/watch?v=BVg2bfqblGI
+     Channel: After Skool (3.8M subs) — https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g
+     Views: 5.3M  |  Engagement: 1.4x subs  |  Duration: 9:10  |  Published: 2021-01-19
+     Likes: 253.2K  Comments: 9.7K
+     ----------------------------------------------------------------------
+  25. Limerence, Attachment, and Childhood Trauma
+     https://www.youtube.com/watch?v=Fvi9pDnIxb4
+     Channel: Patrick Teahan  (814.0K subs) — https://www.youtube.com/channel/UCbWvYupGqq3aMJ6LsG4q-Yg
+     Views: 1.1M  |  Engagement: 1.33x subs  |  Duration: 35:50  |  Published: 2023-03-16
+     Likes: 48.5K  Comments: 3.6K
+     ----------------------------------------------------------------------
+  26. 6 Signs of Complex PTSD | CPTSD
+     https://www.youtube.com/watch?v=44hqDT7NNHU
+     Channel: MedCircle (1.7M subs) — https://www.youtube.com/channel/UCyGOloOIJWt8NlE4tnejQeA
+     Views: 2.1M  |  Engagement: 1.25x subs  |  Duration: 10:06  |  Published: 2021-06-22
+     Likes: 54.3K  Comments: 4.6K
+     ----------------------------------------------------------------------
+  27. Childhood Trauma is Stored Within your Body | Swadishthana Chakra
+     https://www.youtube.com/watch?v=e-yXS8XoemU
+     Channel: Satvic Yoga (2.5M subs) — https://www.youtube.com/channel/UCeP4oj6TsUlnlzQqUzKxUjg
+     Views: 2.6M  |  Engagement: 1.05x subs  |  Duration: 0:59  |  Published: 2024-03-13
+     Likes: 181.0K  Comments: 1.1K
+     ----------------------------------------------------------------------
+  28. Betrayal Trauma | The Signs
+     https://www.youtube.com/watch?v=Jf2CC73eKqk
+     Channel: MedCircle (1.7M subs) — https://www.youtube.com/channel/UCyGOloOIJWt8NlE4tnejQeA
+     Views: 1.5M  |  Engagement: 0.88x subs  |  Duration: 11:31  |  Published: 2022-10-28
+     Likes: 46.4K  Comments: 5.3K
+     ----------------------------------------------------------------------
+  29. 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think
+     https://www.youtube.com/watch?v=ZoZT8-HqI64
+     Channel: Big Think (8.8M subs) — https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg
+     Views: 6.1M  |  Engagement: 0.69x subs  |  Duration: 8:53  |  Published: 2021-09-19
+     Likes: 190.0K  Comments: 4.8K
+     ----------------------------------------------------------------------
+  30. 9 Micro Habits for Self-Regulation of Trauma or Anxiety
+     https://www.youtube.com/watch?v=7nj7Z2lPLnU
+     Channel: Therapy in a Nutshell (2.5M subs) — https://www.youtube.com/channel/UCpuqYFKLkcEryEieomiAv3Q
+     Views: 1.7M  |  Engagement: 0.65x subs  |  Duration: 16:45  |  Published: 2025-09-04
+     Likes: 76.0K  Comments: 2.1K
+     ----------------------------------------------------------------------
+  31. How the body keeps the score on trauma | Bessel van der Kolk for Big Think+
+     https://www.youtube.com/watch?v=iTefkqYQz8g
+     Channel: Big Think (8.8M subs) — https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg
+     Views: 5.3M  |  Engagement: 0.6x subs  |  Duration: 8:04  |  Published: 2023-11-22
+     Likes: 191.1K  Comments: 2.8K
+     ----------------------------------------------------------------------
+  32. Healing the Nervous System From Trauma: Somatic Experiencing
+     https://www.youtube.com/watch?v=dMmEdsuPRiU
+     Channel: Therapy in a Nutshell (2.5M subs) — https://www.youtube.com/channel/UCpuqYFKLkcEryEieomiAv3Q
+     Views: 1.5M  |  Engagement: 0.6x subs  |  Duration: 12:19  |  Published: 2020-05-09
+     Likes: 57.4K  Comments: 2.4K
+     ----------------------------------------------------------------------
+  33. Justin Bieber in Tears Over Past Trauma From Music Industry in Resurfaced 2020 Interview
+     https://www.youtube.com/watch?v=-87QUFzBysI
+     Channel: Entertainment Tonight (7.7M subs) — https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g
+     Views: 4.2M  |  Engagement: 0.55x subs  |  Duration: 2:56  |  Published: 2024-09-25
+     Likes: 36.8K  Comments: 5.0K
+     ----------------------------------------------------------------------
+  34. How to Turn off the Fight/Flight/Freeze Response: Anxiety Skills #4
+     https://www.youtube.com/watch?v=agdpFsKGdOE
+     Channel: Therapy in a Nutshell (2.5M subs) — https://www.youtube.com/channel/UCpuqYFKLkcEryEieomiAv3Q
+     Views: 1.3M  |  Engagement: 0.51x subs  |  Duration: 6:47  |  Published: 2018-08-23
+     Likes: 38.6K  Comments: 1.4K
+     ----------------------------------------------------------------------
+  35. How Trauma Gets Trapped in Your Body and Nervous System 2/3
+     https://www.youtube.com/watch?v=EOOBXD1Yhp8
+     Channel: Therapy in a Nutshell (2.5M subs) — https://www.youtube.com/channel/UCpuqYFKLkcEryEieomiAv3Q
+     Views: 1.2M  |  Engagement: 0.46x subs  |  Duration: 11:54  |  Published: 2021-11-29
+     Likes: 34.8K  Comments: 1.7K
+     ----------------------------------------------------------------------
+  36. Understanding Trauma, Anxiety and Burnout in your Nervous System - Break the Anxiety Cycle 20/30
+     https://www.youtube.com/watch?v=U9ml2mmfMfM
+     Channel: Therapy in a Nutshell (2.5M subs) — https://www.youtube.com/channel/UCpuqYFKLkcEryEieomiAv3Q
+     Views: 1.1M  |  Engagement: 0.44x subs  |  Duration: 15:26  |  Published: 2024-01-18
+     Likes: 30.6K  Comments: 1.6K
+     ----------------------------------------------------------------------
+  37. What is trauma? The author of “The Body Keeps the Score” explains | Bessel van der Kolk | Big Think
+     https://www.youtube.com/watch?v=BJfmfkDQb14
+     Channel: Big Think (8.8M subs) — https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg
+     Views: 3.6M  |  Engagement: 0.41x subs  |  Duration: 7:49  |  Published: 2021-09-17
+     Likes: 112.2K  Comments: 3.1K
+     ----------------------------------------------------------------------
+  38. Why You Feel Lost in Life: Dr. Gabor Maté on Trauma & How to Heal
+     https://www.youtube.com/watch?v=tool-R8VJ2Y
+     Channel: Mel Robbins (5.8M subs) — https://www.youtube.com/channel/UCk2U-Oqn7RXf-ydPqfSxG5g
+     Views: 2.2M  |  Engagement: 0.38x subs  |  Duration: 1:17:54  |  Published: 2025-03-24
+     Likes: 73.3K  Comments: 3.0K
+     ----------------------------------------------------------------------
+  39. Dr. Gabor Maté on how chronic anxiety begins. #gabormate #anxiety #therapy
+     https://www.youtube.com/watch?v=7DYIyJPNKoY
+     Channel: Jay Shetty Podcast (5.8M subs) — https://www.youtube.com/channel/UCbk_QsfaFZG6PdQeCvaYXJQ
+     Views: 2.2M  |  Engagement: 0.38x subs  |  Duration: 0:38  |  Published: 2024-02-13
+     Likes: 86.8K  Comments: 1.1K
+     ----------------------------------------------------------------------
+  40. Erasing Fears & Traumas Based on the Modern Neuroscience of Fear
+     https://www.youtube.com/watch?v=31wjVhCcI5Y
+     Channel: Andrew Huberman (7.6M subs) — https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg
+     Views: 2.4M  |  Engagement: 0.32x subs  |  Duration: 2:13:50  |  Published: 2021-12-06
+     Likes: 55.5K  Comments: 3.0K
+     ----------------------------------------------------------------------
+  41. How childhood trauma affects health across a lifetime | Nadine Burke Harris | TED
+     https://www.youtube.com/watch?v=95ovIJ3dsNk
+     Channel: TED (27.6M subs) — https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug
+     Views: 8.0M  |  Engagement: 0.29x subs  |  Duration: 16:03  |  Published: 2015-02-17
+     Likes: 195.2K  Comments: 9.1K
+     ----------------------------------------------------------------------
+  42. 5 Signs You Have Emotional Trauma (And How To Heal)
+     https://www.youtube.com/watch?v=SmbIcdJ0Zx8
+     Channel: Psych2Go (13.1M subs) — https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA
+     Views: 2.9M  |  Engagement: 0.22x subs  |  Duration: 6:15  |  Published: 2022-05-06
+     Likes: 118.3K  Comments: 4.2K
+     ----------------------------------------------------------------------
+  43. Trauma and Addiction: Crash Course Psychology #31
+     https://www.youtube.com/watch?v=343ORgL3kIc
+     Channel: CrashCourse (17.1M subs) — https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
+     Views: 3.4M  |  Engagement: 0.2x subs  |  Duration: 10:51  |  Published: 2014-09-22
+     Likes: 60.7K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  44. The psychology of post-traumatic stress disorder - Joelle Rabow Maletis
+     https://www.youtube.com/watch?v=b_n9qegR7C4
+     Channel: TED-Ed (22.7M subs) — https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
+     Views: 3.5M  |  Engagement: 0.16x subs  |  Duration: 5:13  |  Published: 2018-06-25
+     Likes: 101.0K  Comments: 3.2K
+     ----------------------------------------------------------------------
+  45. Sympathetic Nervous System: Crash Course Anatomy & Physiology #14
+     https://www.youtube.com/watch?v=0IDgBlCHVsA
+     Channel: CrashCourse (17.1M subs) — https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
+     Views: 2.8M  |  Engagement: 0.16x subs  |  Duration: 10:44  |  Published: 2015-04-13
+     Likes: 33.4K  Comments: 582
+     ----------------------------------------------------------------------
+  46. The 5 Types of PTSD (Post Traumatic Stress Disorder)
+     https://www.youtube.com/watch?v=6GcEhUYoW9E
+     Channel: Psych2Go (13.1M subs) — https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA
+     Views: 2.0M  |  Engagement: 0.15x subs  |  Duration: 6:26  |  Published: 2019-11-11
+     Likes: 82.0K  Comments: 10.5K
+     ----------------------------------------------------------------------
+  47. 5 Signs You Had A Traumatic Childhood (And Don't Realize It)
+     https://www.youtube.com/watch?v=NGC3pXg2FHo
+     Channel: Psych2Go (13.1M subs) — https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA
+     Views: 1.2M  |  Engagement: 0.09x subs  |  Duration: 4:46  |  Published: 2022-05-28
+     Likes: 49.3K  Comments: 3.8K
+     ----------------------------------------------------------------------
+  48. An Eating Disorder Specialist Explains How Trauma Creates Food Disorders
+     https://www.youtube.com/watch?v=7VZNGgDjsMo
+     Channel: VICE (19.2M subs) — https://www.youtube.com/channel/UCn8zNIfYAQNdrFRrr8oibKw
+     Views: 1.4M  |  Engagement: 0.07x subs  |  Duration: 5:14  |  Published: 2019-10-14
+     Likes: 29.5K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  49. The effect of trauma on the brain and how it affects behaviors | John Rigg | TEDxAugusta
+     https://www.youtube.com/watch?v=m9Pg4K1ZKws
+     Channel: TEDx Talks (44.5M subs) — https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
+     Views: 2.7M  |  Engagement: 0.06x subs  |  Duration: 28:02  |  Published: 2015-03-20
+     Likes: 33.5K  Comments: 2.3K
+     ----------------------------------------------------------------------
+  50. Understanding PTSD's Effects on Brain, Body, and Emotions | Janet Seahorn | TEDxCSU
+     https://www.youtube.com/watch?v=BEHDQeIRTgs
+     Channel: TEDx Talks (44.5M subs) — https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
+     Views: 1.8M  |  Engagement: 0.04x subs  |  Duration: 15:59  |  Published: 2016-03-14
+     Likes: 30.5K  Comments: 2.0K
+     ----------------------------------------------------------------------
+
+  Quota used: ~102 units this call (search=100, videos.list=1, channels.list=1) out of the 10,000/day free budget.
+
