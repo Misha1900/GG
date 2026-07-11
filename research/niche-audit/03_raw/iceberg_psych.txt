@@ -1,0 +1,127 @@
+
+  Searching YouTube (Data API v3) for: "psychology iceberg"
+  order=viewCount  limit=20
+
+  1. The Psychology Experiment That Fooled Doctors 👨🏻‍⚕️
+     https://www.youtube.com/watch?v=QJMQayOyM0Q
+     Channel: Hans Kang (27.4K subs) — https://www.youtube.com/channel/UCSCtfxKDdvraC0w0fzkeP_w
+     Views: 17.9M  |  Engagement: 652.16x subs  |  Duration: 0:51  |  Published: 2025-10-12
+     Likes: 683.6K  Comments: 7.4K
+     ----------------------------------------------------------------------
+  2. The Sopranos Iceberg Explained
+     https://www.youtube.com/watch?v=0-49M0Zxygw
+     Channel: Elusory (9.0K subs) — https://www.youtube.com/channel/UCB_4vqjJG9FPJ_c20bU-bzg
+     Views: 1.5M  |  Engagement: 161.26x subs  |  Duration: 59:19  |  Published: 2024-01-11
+     Likes: 28.0K  Comments: 2.8K
+     ----------------------------------------------------------------------
+  3. The Bottom of the Rabbit Hole Iceberg Explained
+     https://www.youtube.com/watch?v=rPTpVxnw4J0
+     Channel: Parallel Pipes (518.0K subs) — https://www.youtube.com/channel/UC65IEk6PTfRZzyvrcYypHQg
+     Views: 8.9M  |  Engagement: 17.15x subs  |  Duration: 1:30:11  |  Published: 2022-05-15
+     Likes: 223.5K  Comments: 9.4K
+     ----------------------------------------------------------------------
+  4. The Linguistics Iceberg Explained
+     https://www.youtube.com/watch?v=GFz6KqZurFY
+     Channel: Duncan Clarke (250.0K subs) — https://www.youtube.com/channel/UCiQtkTO-jrzkNx6G6E7AMfw
+     Views: 3.6M  |  Engagement: 14.3x subs  |  Duration: 2:07:06  |  Published: 2023-07-28
+     Likes: 122.8K  Comments: 7.5K
+     ----------------------------------------------------------------------
+  5. The Most Deadly Diseases Iceberg Explained
+     https://www.youtube.com/watch?v=RZOXrcACX24
+     Channel: quack doc (138.0K subs) — https://www.youtube.com/channel/UC2NRf0-PH8IiMq5uA5FHJnA
+     Views: 1.5M  |  Engagement: 10.85x subs  |  Duration: 1:03:19  |  Published: 2025-04-02
+     Likes: 19.8K  Comments: 1.2K
+     ----------------------------------------------------------------------
+  6. The Most Evil Human Experiment Iceberg Explained
+     https://www.youtube.com/watch?v=N_3zf03U4M8
+     Channel: quack doc (138.0K subs) — https://www.youtube.com/channel/UC2NRf0-PH8IiMq5uA5FHJnA
+     Views: 1.3M  |  Engagement: 9.27x subs  |  Duration: 54:53  |  Published: 2024-09-27
+     Likes: 16.9K  Comments: 781
+     ----------------------------------------------------------------------
+  7. The Neon Genesis Evangelion Iceberg Explained
+     https://www.youtube.com/watch?v=4VWhREhCafM
+     Channel: Pigpen (119.0K subs) — https://www.youtube.com/channel/UC_i3GAnlCgaK-id6pPCOPzQ
+     Views: 1.0M  |  Engagement: 8.69x subs  |  Duration: 2:02:16  |  Published: 2022-08-21
+     Likes: 33.0K  Comments: 2.0K
+     ----------------------------------------------------------------------
+  8. Titanic; There Wasn't Just One Iceberg... | Oceanliner Designs Shorts
+     https://www.youtube.com/watch?v=mlSA3KkL_HE
+     Channel: Oceanliner Designs (950.0K subs) — https://www.youtube.com/channel/UCsE8PTncfn2Vga48jH46HnQ
+     Views: 7.6M  |  Engagement: 8.05x subs  |  Duration: 0:58  |  Published: 2023-01-11
+     Likes: 414.5K  Comments: 5.0K
+     ----------------------------------------------------------------------
+  9. The Psychological Experiment Iceberg Explained
+     https://www.youtube.com/watch?v=ojyjJAUll6E
+     Channel: Duncan Clarke (250.0K subs) — https://www.youtube.com/channel/UCiQtkTO-jrzkNx6G6E7AMfw
+     Views: 1.7M  |  Engagement: 6.61x subs  |  Duration: 48:33  |  Published: 2022-10-18
+     Likes: 58.6K  Comments: 1.7K
+     ----------------------------------------------------------------------
+  10. 3 Hours of Darkest Psychology Tricks to Fall Asleep to
+     https://www.youtube.com/watch?v=gqieJXgM4kM
+     Channel: SleepWise (242.0K subs) — https://www.youtube.com/channel/UCXRSNxnGdfXAKmlucGIdQ2Q
+     Views: 1.4M  |  Engagement: 5.81x subs  |  Duration: 3:11:32  |  Published: 2025-02-23
+     Likes: 46.8K  Comments: 1.7K
+     ----------------------------------------------------------------------
+  11. the Unusual & Rare Mental Disorder Iceberg
+     https://www.youtube.com/watch?v=d0cAx1FzGK8
+     Channel: SIRIUS (295.0K subs) — https://www.youtube.com/channel/UCHyptQKq5lxkSHlyOk6bubA
+     Views: 1.4M  |  Engagement: 4.61x subs  |  Duration: 40:28  |  Published: 2024-05-06
+     Likes: 42.3K  Comments: 3.7K
+     ----------------------------------------------------------------------
+  12. The Psychology of Azula l Avatar: The Last Airbender
+     https://www.youtube.com/watch?v=R4544ZUr_gA
+     Channel: Hello Future Me (1.2M subs) — https://www.youtube.com/channel/UCFQMO-YL87u-6Rt8hIVsRjA
+     Views: 5.5M  |  Engagement: 4.54x subs  |  Duration: 54:58  |  Published: 2019-04-13
+     Likes: 217.6K  Comments: 11.2K
+     ----------------------------------------------------------------------
+  13. The Philosophy Iceberg Explained
+     https://www.youtube.com/watch?v=MR9iLcR1afc
+     Channel: Duncan Clarke (250.0K subs) — https://www.youtube.com/channel/UCiQtkTO-jrzkNx6G6E7AMfw
+     Views: 1.0M  |  Engagement: 4.06x subs  |  Duration: 1:21:20  |  Published: 2022-03-12
+     Likes: 40.2K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  14. The Existential Crisis Iceberg
+     https://www.youtube.com/watch?v=BkR83fxKOFs
+     Channel: Alex O'Connor (2.0M subs) — https://www.youtube.com/channel/UC7kIy8fZavEni8Gzl8NLjOQ
+     Views: 5.3M  |  Engagement: 2.68x subs  |  Duration: 36:06  |  Published: 2024-12-30
+     Likes: 130.0K  Comments: 11.4K
+     ----------------------------------------------------------------------
+  15. Weird Animals Iceberg
+     https://www.youtube.com/watch?v=0mvkvPc-IS0
+     Channel: Psychopoly (671.0K subs) — https://www.youtube.com/channel/UCeIKdSZRSAUm88iS4G9_ohA
+     Views: 1.7M  |  Engagement: 2.52x subs  |  Duration: 54:30  |  Published: 2025-12-06
+     Likes: 45.2K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  16. The Religion & Cult Iceberg Explained
+     https://www.youtube.com/watch?v=ZLE7p7jb9pY
+     Channel: Wendigoon (4.7M subs) — https://www.youtube.com/channel/UC3cpN6gcJQqcCM6mxRUo_dA
+     Views: 7.8M  |  Engagement: 1.66x subs  |  Duration: 1:08:09  |  Published: 2021-03-25
+     Likes: 219.6K  Comments: 14.9K
+     ----------------------------------------------------------------------
+  17. The Mental Illness Iceberg Explained
+     https://www.youtube.com/watch?v=OqsLVEU5L-E
+     Channel: Snook (784.0K subs) — https://www.youtube.com/channel/UC45OWitn6BWG20rxLCL109A
+     Views: 952.4K  |  Engagement: 1.21x subs  |  Duration: 1:37:12  |  Published: 2023-10-09
+     Likes: 33.3K  Comments: 2.7K
+     ----------------------------------------------------------------------
+  18. The Sleep & Dream Iceberg Explained
+     https://www.youtube.com/watch?v=x7-29xJv-LU
+     Channel: Snook (784.0K subs) — https://www.youtube.com/channel/UC45OWitn6BWG20rxLCL109A
+     Views: 893.7K  |  Engagement: 1.14x subs  |  Duration: 1:07:05  |  Published: 2024-01-11
+     Likes: 24.7K  Comments: 1.7K
+     ----------------------------------------------------------------------
+  19. A Psychological Experiment Gone Wrong - The 3 Christs of Ypsilanti
+     https://www.youtube.com/watch?v=t97ipSIDEfU
+     Channel: Wendigoon (4.7M subs) — https://www.youtube.com/channel/UC3cpN6gcJQqcCM6mxRUo_dA
+     Views: 3.6M  |  Engagement: 0.77x subs  |  Duration: 2:25:19  |  Published: 2025-08-01
+     Likes: 122.1K  Comments: 9.1K
+     ----------------------------------------------------------------------
+  20. The Darkest Child Psychology Experiments in History #2 🤔
+     https://www.youtube.com/watch?v=GvrcFUQg7b8
+     Channel: hxsain (5.2M subs) — https://www.youtube.com/channel/UCZfTWLrTkaoZoSx5fkrAPJA
+     Views: 3.1M  |  Engagement: 0.6x subs  |  Duration: 2:05  |  Published: 2025-08-15
+     Likes: 242.3K  Comments: 2.0K
+     ----------------------------------------------------------------------
+
+  Quota used: ~102 units this call (search=100, videos.list=1, channels.list=1) out of the 10,000/day free budget.
+
