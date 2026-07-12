@@ -1,0 +1,69 @@
+{
+  "psychology": {
+    "dark_psychology": {"q": "dark psychology tactics", "dur": "medium"},
+    "narcissism_abuse": {"q": "narcissist behavior explained", "dur": "medium"},
+    "stoicism": {"q": "stoicism lessons for life", "dur": "medium"},
+    "dopamine_discipline": {"q": "dopamine detox self discipline", "dur": "medium"},
+    "attachment_relationships": {"q": "attachment styles relationships psychology", "dur": "medium"},
+    "criminal_psychology": {"q": "criminal psychology analysis", "dur": "long"},
+    "jung_shadow_work": {"q": "carl jung shadow work", "dur": "medium"},
+    "psych_tricks_biases": {"q": "psychological tricks explained", "dur": "medium"},
+    "charisma_social_skills": {"q": "charisma social skills psychology", "dur": "medium"},
+    "dating_psychology": {"q": "male female dating psychology", "dur": "medium"}
+  },
+  "popsci": {
+    "space_astronomy": {"q": "space documentary universe", "dur": "long"},
+    "what_if": {"q": "what if scenario science", "dur": "medium"},
+    "human_body": {"q": "human body explained science", "dur": "medium"},
+    "deep_sea": {"q": "deep sea creatures documentary", "dur": "long"},
+    "prehistoric": {"q": "prehistoric animals documentary", "dur": "long"},
+    "science_mysteries": {"q": "unsolved mysteries science", "dur": "medium"},
+    "geography_earth": {"q": "geography facts explained", "dur": "medium"},
+    "animals_nature": {"q": "wild animal facts documentary", "dur": "medium"}
+  },
+  "science": {
+    "physics_quantum": {"q": "quantum physics explained", "dur": "medium"},
+    "math_visual": {"q": "mathematics explained visually", "dur": "medium"},
+    "neuroscience": {"q": "neuroscience brain explained", "dur": "medium"},
+    "medical_cases": {"q": "medical cases explained doctor", "dur": "medium"},
+    "chemistry": {"q": "chemistry explained reactions", "dur": "medium"},
+    "engineering": {"q": "engineering how it works", "dur": "medium"}
+  },
+  "tech": {
+    "ai_news_tools": {"q": "AI news tools this week", "dur": "medium"},
+    "ai_explained": {"q": "how AI works explained", "dur": "medium"},
+    "cybersecurity_hacking": {"q": "hacker story documentary", "dur": "long"},
+    "tech_company_docs": {"q": "rise and fall tech company", "dur": "long"},
+    "robotics_future": {"q": "humanoid robots future technology", "dur": "medium"},
+    "semiconductors": {"q": "semiconductor chips industry explained", "dur": "medium"},
+    "programming": {"q": "learn programming coding roadmap", "dur": "medium"},
+    "gadgets": {"q": "best tech gadgets 2026", "dur": "medium"}
+  },
+  "money": {
+    "side_hustles": {"q": "side hustles 2026", "dur": "medium"},
+    "make_money_ai": {"q": "make money with AI", "dur": "medium"},
+    "passive_income": {"q": "passive income ideas", "dur": "medium"},
+    "freelancing": {"q": "freelancing beginners guide", "dur": "medium"},
+    "saving_frugal": {"q": "how to save money fast", "dur": "medium"},
+    "money_habits": {"q": "money habits of the rich", "dur": "medium"}
+  },
+  "business": {
+    "company_case_studies": {"q": "business case study documentary", "dur": "long"},
+    "how_x_makes_money": {"q": "how this company makes money", "dur": "medium"},
+    "startup_stories": {"q": "startup story failure success", "dur": "medium"},
+    "business_ideas": {"q": "business ideas 2026", "dur": "medium"},
+    "marketing_breakdowns": {"q": "marketing strategy breakdown", "dur": "medium"},
+    "ecommerce_dropshipping": {"q": "dropshipping amazon fba results", "dur": "medium"},
+    "billionaires_luxury": {"q": "billionaire lifestyle business documentary", "dur": "long"}
+  },
+  "finance": {
+    "index_investing": {"q": "index fund investing beginners", "dur": "medium"},
+    "stock_market": {"q": "stock market analysis", "dur": "medium"},
+    "crypto": {"q": "crypto bitcoin explained", "dur": "medium"},
+    "personal_finance": {"q": "personal finance budgeting", "dur": "medium"},
+    "real_estate": {"q": "real estate investing explained", "dur": "medium"},
+    "macro_economics": {"q": "economy explained recession", "dur": "medium"},
+    "fire_retirement": {"q": "retire early financial independence", "dur": "medium"},
+    "gold_commodities": {"q": "gold silver investing", "dur": "medium"}
+  }
+}
