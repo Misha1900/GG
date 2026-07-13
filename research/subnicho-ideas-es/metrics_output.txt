@@ -1,0 +1,136 @@
+
+=== 01 Топ опасных животных (n=50) ===
+  M1 demand (median views, longform<=24mo, n=6): 14,300,000
+  M2 algorithmic (%% ER>5x): 50.0%
+  M3 concentration (top3 channel share of views): 29.2%  |  unique channels: 41
+  M4 freshness (%% <12mo): 4.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.018%% / 2.10%%
+  M6 longform survival (%% >8min): 42.0%
+
+=== 02 Топ дорогих продуктов (n=50) ===
+  M1 demand (median views, longform<=24mo, n=1): 60,900,000
+  M2 algorithmic (%% ER>5x): 32.0%
+  M3 concentration (top3 channel share of views): 50.4%  |  unique channels: 33
+  M4 freshness (%% <12mo): 18.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.019%% / 2.57%%
+  M6 longform survival (%% >8min): 18.0%
+
+=== 03 Продукты-убийцы органов (n=50) ===
+  M1 demand (median views, longform<=24mo, n=18): 64,850
+  M2 algorithmic (%% ER>5x): 8.0%
+  M3 concentration (top3 channel share of views): 57.5%  |  unique channels: 43
+  M4 freshness (%% <12mo): 60.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.080%% / 2.40%%
+  M6 longform survival (%% >8min): 50.0%
+
+=== 04 Топ псих. проблем (n=50) ===
+  M1 demand (median views, longform<=24mo, n=6): 235,000
+  M2 algorithmic (%% ER>5x): 18.0%
+  M3 concentration (top3 channel share of views): 36.3%  |  unique channels: 46
+  M4 freshness (%% <12mo): 6.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.154%% / 4.04%%
+  M6 longform survival (%% >8min): 50.0%
+
+=== 05 Что будет с телом если (n=50) ===
+  M1 demand (median views, longform<=24mo, n=6): 267,850
+  M2 algorithmic (%% ER>5x): 26.0%
+  M3 concentration (top3 channel share of views): 90.9%  |  unique channels: 38
+  M4 freshness (%% <12mo): 22.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.080%% / 2.82%%
+  M6 longform survival (%% >8min): 36.0%
+
+=== 06 Что приготовить из (n=41) ===
+  M1 demand (median views, longform<=24mo, n=7): 39,400
+  M2 algorithmic (%% ER>5x): 17.1%
+  M3 concentration (top3 channel share of views): 97.5%  |  unique channels: 39
+  M4 freshness (%% <12mo): 36.6%
+  M5 engagement depth (median c/v, l/v on top20): 0.067%% / 2.82%%
+  M6 longform survival (%% >8min): 22.0%
+
+=== 07 Финансы (общее) (n=50) ===
+  M1 demand (median views, longform<=24mo, n=15): 613,000
+  M2 algorithmic (%% ER>5x): 26.0%
+  M3 concentration (top3 channel share of views): 47.1%  |  unique channels: 29
+  M4 freshness (%% <12mo): 10.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.061%% / 3.04%%
+  M6 longform survival (%% >8min): 72.0%
+
+=== 09 Топ полезных приложений (n=50) ===
+  M1 demand (median views, longform<=24mo, n=1): 3,600,000
+  M2 algorithmic (%% ER>5x): 46.0%
+  M3 concentration (top3 channel share of views): 57.8%  |  unique channels: 37
+  M4 freshness (%% <12mo): 2.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.023%% / 3.82%%
+  M6 longform survival (%% >8min): 12.0%
+
+=== 10 Топ финансовых ловушек (n=50) ===
+  M1 demand (median views, longform<=24mo, n=6): 17,800
+  M2 algorithmic (%% ER>5x): 12.0%
+  M3 concentration (top3 channel share of views): 74.4%  |  unique channels: 42
+  M4 freshness (%% <12mo): 12.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.172%% / 6.09%%
+  M6 longform survival (%% >8min): 60.0%
+
+=== 11 Топ причин головной боли (n=50) ===
+  M1 demand (median views, longform<=24mo, n=1): 3,200,000
+  M2 algorithmic (%% ER>5x): 10.0%
+  M3 concentration (top3 channel share of views): 47.7%  |  unique channels: 26
+  M4 freshness (%% <12mo): 2.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.043%% / 2.38%%
+  M6 longform survival (%% >8min): 30.0%
+
+=== 12 Топ нейросетей 2026 (n=50) ===
+  M1 demand (median views, longform<=24mo, n=20): 919,900
+  M2 algorithmic (%% ER>5x): 32.0%
+  M3 concentration (top3 channel share of views): 62.0%  |  unique channels: 39
+  M4 freshness (%% <12mo): 70.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.034%% / 1.81%%
+  M6 longform survival (%% >8min): 72.0%
+
+=== 13 География (n=50) ===
+  M1 demand (median views, longform<=24mo, n=5): 1,600,000
+  M2 algorithmic (%% ER>5x): 34.0%
+  M3 concentration (top3 channel share of views): 57.1%  |  unique channels: 16
+  M4 freshness (%% <12mo): 20.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.028%% / 3.80%%
+  M6 longform survival (%% >8min): 14.0%
+
+=== 14 Эволюция оружия (n=50) ===
+  M1 demand (median views, longform<=24mo, n=15): 2,800
+  M2 algorithmic (%% ER>5x): 28.0%
+  M3 concentration (top3 channel share of views): 87.9%  |  unique channels: 39
+  M4 freshness (%% <12mo): 34.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.075%% / 3.20%%
+  M6 longform survival (%% >8min): 50.0%
+
+=== 15 Топ лучших оружий (n=50) ===
+  M1 demand (median views, longform<=24mo, n=1): 1,000,000
+  M2 algorithmic (%% ER>5x): 34.0%
+  M3 concentration (top3 channel share of views): 37.3%  |  unique channels: 31
+  M4 freshness (%% <12mo): 16.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.021%% / 2.59%%
+  M6 longform survival (%% >8min): 28.0%
+
+=== 16 Древние люди (n=50) ===
+  M1 demand (median views, longform<=24mo, n=20): 112,300
+  M2 algorithmic (%% ER>5x): 42.0%
+  M3 concentration (top3 channel share of views): 72.3%  |  unique channels: 39
+  M4 freshness (%% <12mo): 36.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.040%% / 0.96%%
+  M6 longform survival (%% >8min): 62.0%
+
+=== 17 Почему животные X (n=50) ===
+  M1 demand (median views, longform<=24mo, n=5): 4,600,000
+  M2 algorithmic (%% ER>5x): 58.0%
+  M3 concentration (top3 channel share of views): 46.8%  |  unique channels: 49
+  M4 freshness (%% <12mo): 26.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.011%% / 2.04%%
+  M6 longform survival (%% >8min): 24.0%
+
+=== 19 Технологии/новинки (n=50) ===
+  M1 demand (median views, longform<=24mo, n=20): 814,650
+  M2 algorithmic (%% ER>5x): 32.0%
+  M3 concentration (top3 channel share of views): 31.6%  |  unique channels: 48
+  M4 freshness (%% <12mo): 72.0%
+  M5 engagement depth (median c/v, l/v on top20): 0.043%% / 1.19%%
+  M6 longform survival (%% >8min): 78.0%

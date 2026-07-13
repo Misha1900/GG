@@ -1,0 +1,307 @@
+
+  Searching YouTube (Data API v3) for: "educacion financiera basica"
+  order=viewCount  limit=50
+
+  1. 5 mejores INVERSIONES para PRINCIPIANTES - Robert Kiyosaki
+     https://www.youtube.com/watch?v=WHm0MQfemu8
+     Channel: Visión Financiera (7.9K subs) — https://www.youtube.com/channel/UCZHvtnMD74gNycFpDzG7Eaw
+     Views: 640.2K  |  Engagement: 81.24x subs  |  Duration: 0:54  |  Published: 2024-06-02
+     Likes: 16.8K  Comments: 105
+     ----------------------------------------------------------------------
+  2. 6 FORMAS en que los RICOS ganan DINERO con DEUDAS / finanzas personales
+     https://www.youtube.com/watch?v=Go8aRoAONVI
+     Channel: Dinero Inteligente  (8.4K subs) — https://www.youtube.com/channel/UCzlkTXyAD8_1z3rbZwcksBQ
+     Views: 404.2K  |  Engagement: 48.18x subs  |  Duration: 10:36  |  Published: 2024-10-05
+     Likes: 8.5K  Comments: 225
+     ----------------------------------------------------------------------
+  3. PATO AVENTURAS - Mc. Pato da clase de EDUCACIÓN FINANCIERA
+     https://www.youtube.com/watch?v=BiJVWmIh-tE
+     Channel: El inversionista Exitoso. (26.7K subs) — https://www.youtube.com/channel/UCO9kag2ePH_RCHo6RIFExvw
+     Views: 1.0M  |  Engagement: 37.55x subs  |  Duration: 14:25  |  Published: 2022-11-30
+     Likes: 42.2K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  4. Plantilla para Organizar tus FINANZAS PERSONALES en Excel - Paso a paso de cómo crear el Dashboard.
+     https://www.youtube.com/watch?v=H48qw1QRGSA
+     Channel: Mauro Cantú | IA & Datos (54.9K subs) — https://www.youtube.com/channel/UCEvaRUESvE51-00LPUOXJDQ
+     Views: 1.6M  |  Engagement: 28.64x subs  |  Duration: 35:38  |  Published: 2023-09-26
+     Likes: 35.2K  Comments: 2.4K
+     ----------------------------------------------------------------------
+  5. 8 Formas de Hacerte RICO con tu SALARIO
+     https://www.youtube.com/watch?v=tpw3BnWwwTg
+     Channel: Riqueza y Crecimiento (32.2K subs) — https://www.youtube.com/channel/UCP7VNaNZ0Zgs_jlL5XRKcqw
+     Views: 810.0K  |  Engagement: 25.15x subs  |  Duration: 19:50  |  Published: 2025-07-13
+     Likes: 28.6K  Comments: 943
+     ----------------------------------------------------------------------
+  6. LA PSICOLOGÍA DEL DINERO POR MORGAN HOUSEL (RESUMEN ANIMADO)
+     https://www.youtube.com/watch?v=zhfVRXsqQHU
+     Channel: Gurú Financiero (30.6K subs) — https://www.youtube.com/channel/UCDXrkucZtZPBkUQ8IMSYNhg
+     Views: 724.5K  |  Engagement: 23.68x subs  |  Duration: 12:25  |  Published: 2024-11-15
+     Likes: 15.9K  Comments: 176
+     ----------------------------------------------------------------------
+  7. Las 10 Reglas Básicas de Inversión de LOS JUDIOS que NADIE sigue - Inteligencia Financiera Top
+     https://www.youtube.com/watch?v=RU9psMgH-SY
+     Channel: Finanzas Al Día (64.6K subs) — https://www.youtube.com/channel/UCxwBbtmazrmoxKfjFw9DpgQ
+     Views: 1.3M  |  Engagement: 19.76x subs  |  Duration: 21:14  |  Published: 2024-06-24
+     Likes: 40.5K  Comments: 1.4K
+     ----------------------------------------------------------------------
+  8. Como hacer CRECER el Dinero | 3 Fases de las Finanzas Personales
+     https://www.youtube.com/watch?v=ynDTMGQIWMU
+     Channel: Gurú Financiero (30.6K subs) — https://www.youtube.com/channel/UCDXrkucZtZPBkUQ8IMSYNhg
+     Views: 567.5K  |  Engagement: 18.55x subs  |  Duration: 10:23  |  Published: 2024-08-30
+     Likes: 18.1K  Comments: 305
+     ----------------------------------------------------------------------
+  9. ✅12 Leyes MAS PODEROSAS de EDUCACIÓN FINANCIERA y FINANZAS PERSONALES🤑 y hacer DINERO|IQ FINANCIERO
+     https://www.youtube.com/watch?v=41jCyp8UZfY
+     Channel: ADN Financiero (119.0K subs) — https://www.youtube.com/channel/UCGsIqLkK3RSQtx6tvNWnZxw
+     Views: 2.1M  |  Engagement: 17.58x subs  |  Duration: 18:57  |  Published: 2024-07-13
+     Likes: 57.0K  Comments: 729
+     ----------------------------------------------------------------------
+  10. Educación Financiera para Principiantes y Dummies | Finanzas Personales | Audiolibro en Español
+     https://www.youtube.com/watch?v=VRM83hSQ_6c
+     Channel: Televisión Giovanni (30.3K subs) — https://www.youtube.com/channel/UC6UWV3tfAsafNtUUeDBrOHA
+     Views: 510.2K  |  Engagement: 16.84x subs  |  Duration: 3:15:27  |  Published: 2023-04-09
+     Likes: 9.5K  Comments: 172
+     ----------------------------------------------------------------------
+  11. Educación Financiera para Principiantes - Esto es lo PRIMERO que debes saber
+     https://www.youtube.com/watch?v=9sCVcWD1Svs
+     Channel: Better Wallet en Español (88.4K subs) — https://www.youtube.com/channel/UCZWDHbpDetLUj5SgOZFvWhw
+     Views: 1.5M  |  Engagement: 16.57x subs  |  Duration: 10:22  |  Published: 2022-10-03
+     Likes: 44.4K  Comments: 887
+     ----------------------------------------------------------------------
+  12. 10 CONSEJOS FINANCIEROS que hacen RICO A CUALQUIERA! Robert Kiyosaki y Bill Gates
+     https://www.youtube.com/watch?v=nAsixKNaP1M
+     Channel: Zona Finanzas (38.2K subs) — https://www.youtube.com/channel/UCadrEagftk24XJyf-0l_C3A
+     Views: 427.8K  |  Engagement: 11.2x subs  |  Duration: 1:00  |  Published: 2023-07-14
+     Likes: 23.6K  Comments: 57
+     ----------------------------------------------------------------------
+  13. El Dinero se GANA con la MENTE, NO con el Trabajo Duro: Las REGLAS Ocultas de los Ricos (AUDIOLIBRO)
+     https://www.youtube.com/watch?v=yVw7SxN7cdg
+     Channel: Crece Escuchando (59.1K subs) — https://www.youtube.com/channel/UCX5qReQ2hY97SXCV5NBKK3w
+     Views: 613.0K  |  Engagement: 10.37x subs  |  Duration: 1:34:01  |  Published: 2025-08-13
+     Likes: 17.6K  Comments: 599
+     ----------------------------------------------------------------------
+  14. Arturo Elías Ayub: Lecciones de Negocios, Dinero y Éxito | Dimes y Billetes #318
+     https://www.youtube.com/watch?v=7vk5PoUUkPc
+     Channel: Moris Dieck | Finanzas e Inversiones  (903.0K subs) — https://www.youtube.com/channel/UCxFACDJ98idvo9Gq9M9AQgg
+     Views: 4.1M  |  Engagement: 4.53x subs  |  Duration: 1:24:10  |  Published: 2025-03-05
+     Likes: 52.9K  Comments: 1.3K
+     ----------------------------------------------------------------------
+  15. ✅15 Lecciones PODEROSAS de EDUCACIÓN FINANCIERA y FINANZAS PERSONALES🤑 y tener Dinero| IQ Financiero
+     https://www.youtube.com/watch?v=J1cWzzRNyE8
+     Channel: ADN Financiero (119.0K subs) — https://www.youtube.com/channel/UCGsIqLkK3RSQtx6tvNWnZxw
+     Views: 494.0K  |  Engagement: 4.15x subs  |  Duration: 18:37  |  Published: 2024-10-25
+     Likes: 14.3K  Comments: 322
+     ----------------------------------------------------------------------
+  16. APRENDE A INVERTIR desde cero - Nivel Básico (Curso completo)
+     https://www.youtube.com/watch?v=2ibqfxEAESo
+     Channel: César Dabián Finanzas (582.0K subs) — https://www.youtube.com/channel/UCaZ5txM63JGqgzRTVXy5e9g
+     Views: 2.4M  |  Engagement: 4.1x subs  |  Duration: 26:35  |  Published: 2022-07-06
+     Likes: 115.1K  Comments: 1.4K
+     ----------------------------------------------------------------------
+  17. ✅12 Pasos para una PODEROSA EDUCACIÓN FINANCIERA🤑 y tener DINERO (Inteligencia Financiera)
+     https://www.youtube.com/watch?v=2WqqUGOnriU
+     Channel: ADN Financiero (119.0K subs) — https://www.youtube.com/channel/UCGsIqLkK3RSQtx6tvNWnZxw
+     Views: 440.6K  |  Engagement: 3.7x subs  |  Duration: 19:38  |  Published: 2024-01-20
+     Likes: 17.0K  Comments: 145
+     ----------------------------------------------------------------------
+  18. "Hacerse rico es fácil" PRUEBA ESTOS 7 PASOS ¡Te servirán por el resto de tu vida! - Brian Tracy
+     https://www.youtube.com/watch?v=Ut7AJOnPvNs
+     Channel: Financial Mentors TV - Español (3.2M subs) — https://www.youtube.com/channel/UCAqatD5Kmib2qQ1OIVC5_nQ
+     Views: 10.2M  |  Engagement: 3.18x subs  |  Duration: 11:37  |  Published: 2021-04-19
+     Likes: 371.1K  Comments: 6.8K
+     ----------------------------------------------------------------------
+  19. ‼️ 5 LIBROS DE EDUCACIÓN FINANCIERA ‼️ #librosrecomendados   #educacionfinanciera
+     https://www.youtube.com/watch?v=CtZAFg5nKFw
+     Channel: Kaizen Rey Libros (389.0K subs) — https://www.youtube.com/channel/UCvPlbGMmmgq9xP_bBXogxBw
+     Views: 1.2M  |  Engagement: 3.1x subs  |  Duration: 1:00  |  Published: 2025-10-06
+     Likes: 23.8K  Comments: 150
+     ----------------------------------------------------------------------
+  20. Educación Financiera Para Principiantes: Cómo tomar el control de tu dinero y finanzas personales
+     https://www.youtube.com/watch?v=vePC1Ym5x-8
+     Channel: Hábito Emprendedor (174.0K subs) — https://www.youtube.com/channel/UCRUp9_7qdkB0YLgpC599-Rw
+     Views: 506.4K  |  Engagement: 2.91x subs  |  Duration: 1:00:01  |  Published: 2025-07-16
+     Likes: 18.5K  Comments: 426
+     ----------------------------------------------------------------------
+  21. Curso GRATIS Educación Financiera Para Principiantes: Cómo Organizar Tus Finanzas Personales
+     https://www.youtube.com/watch?v=ap_tK2-HSN0
+     Channel: Hábito Emprendedor (174.0K subs) — https://www.youtube.com/channel/UCRUp9_7qdkB0YLgpC599-Rw
+     Views: 417.7K  |  Engagement: 2.4x subs  |  Duration: 46:36  |  Published: 2026-02-05
+     Likes: 16.5K  Comments: 312
+     ----------------------------------------------------------------------
+  22. ⚠️ Tarjeta Digital BBVA (Bancomer) EVITA su comisión sorpresa #finanzaspersonales
+     https://www.youtube.com/watch?v=dVi-vlo3_QM
+     Channel: Germán - Mi Amigo Dinero (320.0K subs) — https://www.youtube.com/channel/UC2m-ULMxbUaJFb2yZmKLRwQ
+     Views: 660.4K  |  Engagement: 2.06x subs  |  Duration: 0:31  |  Published: 2024-03-10
+     Likes: 20.8K  Comments: 227
+     ----------------------------------------------------------------------
+  23. El arte de hacer dinero Audiolibro Completo | P.T. Barnum | Negocios y Finanzas personales
+     https://www.youtube.com/watch?v=2KGWCID1rSw
+     Channel: Aubiblio Narraciones (936.0K subs) — https://www.youtube.com/channel/UCH5kUshoNleZvMdypocgDNw
+     Views: 1.9M  |  Engagement: 2.03x subs  |  Duration: 1:43:20  |  Published: 2023-01-03
+     Likes: 50.4K  Comments: 678
+     ----------------------------------------------------------------------
+  24. así gano $300 diarios sin trabajar
+     https://www.youtube.com/watch?v=WC8qHaI3EfQ
+     Channel: Eduardo Rosas - Finanzas Personales (1.0M subs) — https://www.youtube.com/channel/UCBxr1muciHdRtlygUhruARw
+     Views: 1.4M  |  Engagement: 1.37x subs  |  Duration: 1:01  |  Published: 2023-12-12
+     Likes: 62.5K  Comments: 828
+     ----------------------------------------------------------------------
+  25. El arte de ahorrar bien (ft. Finamex) | Dimes y billetes #166 | Moris Dieck
+     https://www.youtube.com/watch?v=y2QqZOT32ko
+     Channel: Moris Dieck | Finanzas e Inversiones  (903.0K subs) — https://www.youtube.com/channel/UCxFACDJ98idvo9Gq9M9AQgg
+     Views: 1.1M  |  Engagement: 1.19x subs  |  Duration: 1:02:57  |  Published: 2022-10-12
+     Likes: 19.2K  Comments: 688
+     ----------------------------------------------------------------------
+  26. Regla para Mejorar tus FINANZAS: Secreto del 50-30-20 #finanzaspersonales #consejosfinancieros
+     https://www.youtube.com/watch?v=zkOaCfv9esg
+     Channel: Luis Mi Negocios (1.8M subs) — https://www.youtube.com/channel/UCDOSaJ0pnglwzfkR6fYbisA
+     Views: 2.0M  |  Engagement: 1.13x subs  |  Duration: 0:37  |  Published: 2024-07-05
+     Likes: 105.4K  Comments: 972
+     ----------------------------------------------------------------------
+  27. ¡PRUÉBALO POR 11 DIAS! 11 Hábitos que Mejorarán Inmediatamente tus Finanzas Personales - Jack Ma
+     https://www.youtube.com/watch?v=1G3S0mGM7PU
+     Channel: Financial Mentors TV - Español (3.2M subs) — https://www.youtube.com/channel/UCAqatD5Kmib2qQ1OIVC5_nQ
+     Views: 3.4M  |  Engagement: 1.06x subs  |  Duration: 12:13  |  Published: 2018-06-12
+     Likes: 83.0K  Comments: 2.2K
+     ----------------------------------------------------------------------
+  28. Comprar un AUTO puede ser la PEOR DECISIÓN #comprarauto #consejosfinancieros #finanzaspersonales
+     https://www.youtube.com/watch?v=sjqdMBnsmOg
+     Channel: Luis Mi Negocios (1.8M subs) — https://www.youtube.com/channel/UCDOSaJ0pnglwzfkR6fYbisA
+     Views: 1.8M  |  Engagement: 1.0x subs  |  Duration: 0:53  |  Published: 2024-09-21
+     Likes: 84.4K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  29. ¿Cómo INVERTIR siendo MENOR de EDAD? | 5 Formas
+     https://www.youtube.com/watch?v=3-4g-jBN1p4
+     Channel: Andres Garza (5.5M subs) — https://www.youtube.com/channel/UCSUwTmHIP_rlCTZeQW2oiEg
+     Views: 5.1M  |  Engagement: 0.94x subs  |  Duration: 15:30  |  Published: 2022-12-20
+     Likes: 424.3K  Comments: 20.0K
+     ----------------------------------------------------------------------
+  30. La GUÍA DEFINITIVA para invertir en BIENES RAÍCES DESDE CERO
+     https://www.youtube.com/watch?v=_fX2uSTd39E
+     Channel: Carlos Devis (1.1M subs) — https://www.youtube.com/channel/UCKwyUxdM1x5xqMEqqdQaPgQ
+     Views: 979.0K  |  Engagement: 0.87x subs  |  Duration: 18:30  |  Published: 2020-08-27
+     Likes: 47.4K  Comments: 1.2K
+     ----------------------------------------------------------------------
+  31. How To Manage Your Money Like The 1%
+     https://www.youtube.com/watch?v=QThz1B8SHmc
+     Channel: Mark Tilbury (8.6M subs) — https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA
+     Views: 6.4M  |  Engagement: 0.74x subs  |  Duration: 33:30  |  Published: 2025-05-12
+     Likes: 222.3K  Comments: 5.3K
+     ----------------------------------------------------------------------
+  32. Elon Musk: "La pobreza no es un accidente" ¡Lo que la gente exitosa sacrifica para obtener RIQUEZA!
+     https://www.youtube.com/watch?v=Cs79PCmiwJ0
+     Channel: Financial Mentors TV - Español (3.2M subs) — https://www.youtube.com/channel/UCAqatD5Kmib2qQ1OIVC5_nQ
+     Views: 2.3M  |  Engagement: 0.72x subs  |  Duration: 10:29  |  Published: 2023-12-18
+     Likes: 63.8K  Comments: 1.6K
+     ----------------------------------------------------------------------
+  33. 💲sistema de dinero -El dinero explicado/NETFLIX Documental sobre finanzas
+     https://www.youtube.com/watch?v=o92MEv_FlXA
+     Channel: UN POCO MEJOR (1.8M subs) — https://www.youtube.com/channel/UCRlBDnRQduDk4tmm1OtpSRg
+     Views: 1.2M  |  Engagement: 0.64x subs  |  Duration: 1:39:38  |  Published: 2022-09-17
+     Likes: 23.6K  Comments: 650
+     ----------------------------------------------------------------------
+  34. Guía del SAT para principiantes: RFC, facturas, deducciones y más
+     https://www.youtube.com/watch?v=JebbFVXwObs
+     Channel: Luis Mi Negocios (1.8M subs) — https://www.youtube.com/channel/UCDOSaJ0pnglwzfkR6fYbisA
+     Views: 1.1M  |  Engagement: 0.62x subs  |  Duration: 29:57  |  Published: 2024-06-23
+     Likes: 64.9K  Comments: 1.5K
+     ----------------------------------------------------------------------
+  35. Finanzas personales en Estados Unidos | Dimes y Billetes #232 | Moris Dieck
+     https://www.youtube.com/watch?v=9864_mQ3ors
+     Channel: Moris Dieck | Finanzas e Inversiones  (903.0K subs) — https://www.youtube.com/channel/UCxFACDJ98idvo9Gq9M9AQgg
+     Views: 470.4K  |  Engagement: 0.52x subs  |  Duration: 1:22:09  |  Published: 2024-01-10
+     Likes: 11.7K  Comments: 569
+     ----------------------------------------------------------------------
+  36. Libros Malos, Buenos y Legendarios 📚 #Dinero #Finanzas #Invertir #Inversiones #Libros
+     https://www.youtube.com/watch?v=GoxmtpqesVk
+     Channel: Andres Garza (5.5M subs) — https://www.youtube.com/channel/UCSUwTmHIP_rlCTZeQW2oiEg
+     Views: 2.8M  |  Engagement: 0.51x subs  |  Duration: 0:34  |  Published: 2024-12-12
+     Likes: 252.3K  Comments: 1.0K
+     ----------------------------------------------------------------------
+  37. Cómo ordenar tus finanzas en 7 pasos
+     https://www.youtube.com/watch?v=WF6qLnuh4EA
+     Channel: Moris Dieck | Finanzas e Inversiones  (903.0K subs) — https://www.youtube.com/channel/UCxFACDJ98idvo9Gq9M9AQgg
+     Views: 461.2K  |  Engagement: 0.51x subs  |  Duration: 9:16  |  Published: 2024-10-28
+     Likes: 17.4K  Comments: 235
+     ----------------------------------------------------------------------
+  38. Educación Financiera para Principiantes - Cómo funcionan las Finanzas
+     https://www.youtube.com/watch?v=X38MGyuc0ds
+     Channel: Aprendiz Financiero (1.7M subs) — https://www.youtube.com/channel/UCLYoURyGHMUuQ5YrfX55PWg
+     Views: 758.7K  |  Engagement: 0.46x subs  |  Duration: 4:04  |  Published: 2024-06-13
+     Likes: 19.2K  Comments: 306
+     ----------------------------------------------------------------------
+  39. Mini Curso: Aprende a INVERTIR DESDE CERO | Lección 1
+     https://www.youtube.com/watch?v=9xW0HK7IUo0
+     Channel: Luis Mi Negocios (1.8M subs) — https://www.youtube.com/channel/UCDOSaJ0pnglwzfkR6fYbisA
+     Views: 771.3K  |  Engagement: 0.44x subs  |  Duration: 6:59  |  Published: 2023-12-13
+     Likes: 31.7K  Comments: 573
+     ----------------------------------------------------------------------
+  40. Mira ESTO para entender las Finanzas #dinero #finanzas
+     https://www.youtube.com/watch?v=NIcGRnMuPYU
+     Channel: Aprendiz Financiero (1.7M subs) — https://www.youtube.com/channel/UCLYoURyGHMUuQ5YrfX55PWg
+     Views: 727.8K  |  Engagement: 0.44x subs  |  Duration: 1:00  |  Published: 2024-07-13
+     Likes: 25.5K  Comments: 133
+     ----------------------------------------------------------------------
+  41. Como Analizar Acciones RÁPIDO: Guía Bolsa de Valores Para Principiantes Paso a Paso.
+     https://www.youtube.com/watch?v=5ux3B0fpNlw
+     Channel: Omar - Educación Financiera (874.0K subs) — https://www.youtube.com/channel/UCdNnEDbRWhanA1O8zhCn3ZA
+     Views: 354.9K  |  Engagement: 0.41x subs  |  Duration: 13:47  |  Published: 2019-11-22
+     Likes: 21.8K  Comments: 647
+     ----------------------------------------------------------------------
+  42. Cómo comprar ACCIONES e INVERTIR en GBM - Tutorial COMPLETO
+     https://www.youtube.com/watch?v=bJgqPIioaIQ
+     Channel: Luis Mi Negocios (1.8M subs) — https://www.youtube.com/channel/UCDOSaJ0pnglwzfkR6fYbisA
+     Views: 668.2K  |  Engagement: 0.38x subs  |  Duration: 31:10  |  Published: 2025-01-28
+     Likes: 31.0K  Comments: 930
+     ----------------------------------------------------------------------
+  43. ROMPE con MALOS HÁBITOS Financieros | CLASE 1 de 7
+     https://www.youtube.com/watch?v=7LAQBeEi_C4
+     Channel: Luis Mi Negocios (1.8M subs) — https://www.youtube.com/channel/UCDOSaJ0pnglwzfkR6fYbisA
+     Views: 537.2K  |  Engagement: 0.3x subs  |  Duration: 14:00  |  Published: 2024-12-15
+     Likes: 25.8K  Comments: 332
+     ----------------------------------------------------------------------
+  44. CURSO Completo de FINANZAS PERSONALES | Andrés Garza
+     https://www.youtube.com/watch?v=UhzdeGjLJ78
+     Channel: Andres Garza (5.5M subs) — https://www.youtube.com/channel/UCSUwTmHIP_rlCTZeQW2oiEg
+     Views: 1.4M  |  Engagement: 0.26x subs  |  Duration: 1:27:48  |  Published: 2024-10-07
+     Likes: 62.0K  Comments: 2.9K
+     ----------------------------------------------------------------------
+  45. Cómo gestionar tu dinero? Guía de Finanzas Personales (Paso a Paso)
+     https://www.youtube.com/watch?v=40nEm-3zaAs
+     Channel: Adrià Solà Pastor (1.9M subs) — https://www.youtube.com/channel/UCvzk_MwdXD6jQa4Se-6B9ZQ
+     Views: 441.8K  |  Engagement: 0.24x subs  |  Duration: 21:25  |  Published: 2024-05-12
+     Likes: 24.3K  Comments: 578
+     ----------------------------------------------------------------------
+  46. El discurso de Warren Buffett que CAMBIARÁ TU FUTURO FINANCIERO ¡Tienes que verlo ahora mismo!
+     https://www.youtube.com/watch?v=KL_W7I1HZlE
+     Channel: Financial Mentors TV - Español (3.2M subs) — https://www.youtube.com/channel/UCAqatD5Kmib2qQ1OIVC5_nQ
+     Views: 595.2K  |  Engagement: 0.19x subs  |  Duration: 11:46  |  Published: 2023-06-19
+     Likes: 16.6K  Comments: 534
+     ----------------------------------------------------------------------
+  47. La Verdadera Educación Financiera 🎯 #Dinero #Educación #Finanzas #FinanzasPersonales #Invertir
+     https://www.youtube.com/watch?v=trC7GGvdCG0
+     Channel: Andres Garza (5.5M subs) — https://www.youtube.com/channel/UCSUwTmHIP_rlCTZeQW2oiEg
+     Views: 1.0M  |  Engagement: 0.18x subs  |  Duration: 1:01  |  Published: 2025-06-30
+     Likes: 79.4K  Comments: 234
+     ----------------------------------------------------------------------
+  48. Los Mejores Libros 📚 #Dinero #Finanzas #FinanzasPersonales #Inversión #Inversiones #Libro #Libros
+     https://www.youtube.com/watch?v=95EN6zm3rCM
+     Channel: Andres Garza (5.5M subs) — https://www.youtube.com/channel/UCSUwTmHIP_rlCTZeQW2oiEg
+     Views: 809.6K  |  Engagement: 0.15x subs  |  Duration: 0:33  |  Published: 2023-03-27
+     Likes: 99.6K  Comments: 452
+     ----------------------------------------------------------------------
+  49. La Mejor Manera De Administrar Tu Dinero 💵 #Dinero #Finanzas #FinanzasPersonales #Invertir
+     https://www.youtube.com/watch?v=Y9KfRrP-Lvo
+     Channel: Andres Garza (5.5M subs) — https://www.youtube.com/channel/UCSUwTmHIP_rlCTZeQW2oiEg
+     Views: 573.1K  |  Engagement: 0.11x subs  |  Duration: 0:25  |  Published: 2024-08-14
+     Likes: 63.1K  Comments: 251
+     ----------------------------------------------------------------------
+  50. Educación financiera para toda la vida | Nicolas Gonzalez | TEDxMarDelPlata
+     https://www.youtube.com/watch?v=5PAIPVjGMt4
+     Channel: TEDx Talks (44.5M subs) — https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
+     Views: 712.9K  |  Engagement: 0.02x subs  |  Duration: 10:57  |  Published: 2020-11-18
+     Likes: 21.8K  Comments: 276
+     ----------------------------------------------------------------------
+
+  Quota used: ~102 units this call (search=100, videos.list=1, channels.list=1) out of the 10,000/day free budget.
+
